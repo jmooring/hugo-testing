@@ -5,6 +5,7 @@ draft = false
 details = 'https://discourse.gohugo.io/t/36924'
 description = "Is there some pre-packaged way to use Kroki from markdown?"
 +++
+
 [Kroki](https://kroki.io/) creates diagrams from textual descriptions.
 
 ---

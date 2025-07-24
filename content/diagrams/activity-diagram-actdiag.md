@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['ActDiag']
 weight = 40
 +++
+
 ```kroki {type=actdiag}
 {
   write -> convert -> image

@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['Pikchr']
 weight = 180
 +++
+
 ```kroki {type=pikchr}
 $r = 0.2in
 linerad = 0.75*$r

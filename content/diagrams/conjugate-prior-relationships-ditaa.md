@@ -6,6 +6,7 @@ categories = ['Drawing']
 types =  ['Ditaa']
 weight = 230
 +++
+
 ```kroki {type=ditaa}
                           +-------------+
                           |             |

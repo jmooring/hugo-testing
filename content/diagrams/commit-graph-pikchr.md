@@ -6,6 +6,7 @@ categories = ['Graph']
 types =  ['Pikchr']
 weight = 260
 +++
+
 ```kroki {type=pikchr}
 scale = 0.8
 fill = white

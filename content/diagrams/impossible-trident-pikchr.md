@@ -6,6 +6,7 @@ categories = ['Drawing']
 types =  ['Pikchr']
 weight = 250
 +++
+
 ```kroki {type=pikchr}
 # Impossible trident pikchr script
 # https://en.wikipedia.org/wiki/Impossible_trident

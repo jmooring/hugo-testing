@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['PlantUML']
 weight = 110
 +++
+
 ```kroki {type=plantuml}
 @startmindmap
 skinparam monochrome true

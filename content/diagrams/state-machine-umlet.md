@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['UMlet']
 weight = 170
 +++
+
 ```kroki {type=umlet}
 <?xml version="1.0" encoding="UTF-8"?>
 <umlet_diagram>

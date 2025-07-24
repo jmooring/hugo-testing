@@ -1,0 +1,15 @@
+baseURL      = 'https://example.org/'
+languageCode = 'en-us'
+title        = 'Hugo Forum Topic #36924'
+disableKinds = ['rss', 'sitemap']
+
+[module.hugoVersion]
+  min = '0.147.0'
+
+[caches.getresource]
+  dir    = ':resourceDir'
+  maxAge = -1
+
+[taxonomies]
+  category = 'categories'
+  type     = 'types'

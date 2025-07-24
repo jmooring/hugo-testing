@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['NwDiag']
 weight = 120
 +++
+
 ```kroki {type=nwdiag}
 {
   network dmz {

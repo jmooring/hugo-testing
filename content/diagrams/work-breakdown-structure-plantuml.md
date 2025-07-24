@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['PlantUML']
 weight = 210
 +++
+
 ```kroki {type=plantuml}
 @startwbs
 skinparam monochrome true

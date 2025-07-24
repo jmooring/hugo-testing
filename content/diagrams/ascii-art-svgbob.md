@@ -6,6 +6,7 @@ categories = ['Drawing']
 types =  ['SvgBob']
 weight = 220
 +++
+
 ```kroki {type=svgbob}
   _____
  /  O__]

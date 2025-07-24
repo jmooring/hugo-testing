@@ -6,6 +6,7 @@ categories = ['C4']
 types =  ['PlantUML']
 weight = 10
 +++
+
 ```kroki {type=plantuml}
 @startuml
 !include C4_Component.puml

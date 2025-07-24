@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Content-Length: 1350
+Cache-Control: public, max-age=432000
+Connection: keep-alive
+Content-Type: image/svg+xml
+Date: Thu, 24 Jul 2025 19:39:26 GMT
+Etag: 7269f78c4abetTMHfz457wIsCw_aac_m00
+Expires: Tue, 29 Jul 2025 19:39:26 GMT
+Last-Modified: Mon, 19 May 2025 11:32:17 GMT
+Server: nginx/1.18.0 (Ubuntu)
+X-Etags-1: 7269f78c4abetTMHfz457wIsCw_aac_m00
+X-Etags-2: 7269f78c4abetTMHfz457wIsCw_aac_m00
+
+<svg xmlns='http://www.w3.org/2000/svg' style='font-size:initial;' class="pikchr" viewBox="0 0 327.47 146.052">
+<ellipse cx="7.82929" cy="16.3332" rx="5.66929" ry="14.1732"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M7.82929,2.16L279.955,2.16"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M7.82929,30.5065L257.278,30.5065"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M257.278,30.5065L257.278,58.8529"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<ellipse cx="30.5065" cy="73.0261" rx="5.66929" ry="14.1732"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M30.5065,58.8529L257.278,58.8529L257.278,58.8529L268.617,87.1994"  style="fill:none;stroke-width:2.16;stroke-linejoin:round;stroke:rgb(0,0,0);" />
+<path d="M30.5065,87.1994L279.955,87.1994L257.278,30.5065"  style="fill:none;stroke-width:2.16;stroke-linejoin:round;stroke:rgb(0,0,0);" />
+<ellipse cx="53.1836" cy="129.719" rx="5.66929" ry="14.1732"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M53.1836,115.546L325.31,115.546L279.955,2.16"  style="fill:none;stroke-width:2.16;stroke-linejoin:round;stroke:rgb(0,0,0);" />
+<path d="M53.1836,143.892L325.31,143.892L325.31,115.546"  style="fill:none;stroke-width:2.16;stroke-linejoin:round;stroke:rgb(0,0,0);" />
+</svg>
+

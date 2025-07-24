@@ -6,6 +6,7 @@ categories = ['Graph']
 types =  ['GraphViz']
 weight = 270
 +++
+
 ```kroki {type=graphviz}
 digraph "unix" {
   graph [ fontname = "Helvetica-Oblique",

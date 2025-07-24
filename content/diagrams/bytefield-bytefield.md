@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['Bytefield']
 weight = 70
 +++
+
 ```kroki {type=bytefield}
 (defattrs :bg-green {:fill "#a0ffa0"})
 (defattrs :bg-yellow {:fill "#ffffa0"})

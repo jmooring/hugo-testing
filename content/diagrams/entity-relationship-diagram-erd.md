@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['Erd']
 weight = 90
 +++
+
 ```kroki {type=erd}
 [Person]
 *name

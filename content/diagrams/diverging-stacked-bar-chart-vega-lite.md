@@ -6,6 +6,7 @@ categories = ['Visualization']
 types =  ['Vega-Lite']
 weight = 280
 +++
+
 ```kroki {type=vegalite}
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",

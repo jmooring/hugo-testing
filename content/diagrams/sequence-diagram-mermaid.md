@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['Mermaid']
 weight = 150
 +++
+
 ```kroki {type=mermaid}
 sequenceDiagram
   participant Alice

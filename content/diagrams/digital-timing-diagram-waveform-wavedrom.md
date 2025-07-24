@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['Wavedrom']
 weight = 80
 +++
+
 ```kroki {type=wavedrom}
 { signal: [
   { name: "clk",         wave: "p.....|..." },

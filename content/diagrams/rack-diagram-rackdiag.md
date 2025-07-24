@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['RackDiag']
 weight = 140
 +++
+
 ```kroki {type=rackdiag}
 {
   16U;

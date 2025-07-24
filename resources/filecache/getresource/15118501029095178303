@@ -1,0 +1,139 @@
+HTTP/1.1 200 OK
+Content-Length: 3512
+Cache-Control: public, max-age=432000
+Connection: keep-alive
+Content-Type: image/svg+xml
+Date: Thu, 24 Jul 2025 19:39:23 GMT
+Etag: 0.7.6UT-sO4wWTnwg4mLXsqeYl000
+Expires: Tue, 29 Jul 2025 19:39:23 GMT
+Last-Modified: Mon, 19 May 2025 11:32:17 GMT
+Server: nginx/1.18.0 (Ubuntu)
+X-Etags-1: 0.7.6UT-sO4wWTnwg4mLXsqeYl000
+X-Etags-2: 0.7.6UT-sO4wWTnwg4mLXsqeYl000
+
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="160" class="svgbob">
+  <style>.svgbob line, .svgbob path, .svgbob circle, .svgbob rect, .svgbob polygon {
+  stroke: black;
+  stroke-width: 2;
+  stroke-opacity: 1;
+  fill-opacity: 1;
+  stroke-linecap: round;
+  stroke-linejoin: miter;
+}
+
+.svgbob text {
+  white-space: pre;
+  fill: black;
+  font-family: Iosevka Fixed, monospace;
+  font-size: 14px;
+}
+
+.svgbob rect.backdrop {
+  stroke: none;
+  fill: white;
+}
+
+.svgbob .broken {
+  stroke-dasharray: 8;
+}
+
+.svgbob .filled {
+  fill: black;
+}
+
+.svgbob .bg_filled {
+  fill: white;
+  stroke-width: 1;
+}
+
+.svgbob .nofill {
+  fill: white;
+}
+
+.svgbob .end_marked_arrow {
+  marker-end: url(#arrow);
+}
+
+.svgbob .start_marked_arrow {
+  marker-start: url(#arrow);
+}
+
+.svgbob .end_marked_diamond {
+  marker-end: url(#diamond);
+}
+
+.svgbob .start_marked_diamond {
+  marker-start: url(#diamond);
+}
+
+.svgbob .end_marked_circle {
+  marker-end: url(#circle);
+}
+
+.svgbob .start_marked_circle {
+  marker-start: url(#circle);
+}
+
+.svgbob .end_marked_open_circle {
+  marker-end: url(#open_circle);
+}
+
+.svgbob .start_marked_open_circle {
+  marker-start: url(#open_circle);
+}
+
+.svgbob .end_marked_big_open_circle {
+  marker-end: url(#big_open_circle);
+}
+
+.svgbob .start_marked_big_open_circle {
+  marker-start: url(#big_open_circle);
+}
+
+</style>
+  <defs>
+    <marker id="arrow" viewBox="-2 -2 8 8" refX="4" refY="2" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <polygon points="0,0 0,4 4,2 0,0"></polygon>
+    </marker>
+    <marker id="diamond" viewBox="-2 -2 8 8" refX="4" refY="2" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <polygon points="0,2 2,0 4,2 2,4 0,2"></polygon>
+    </marker>
+    <marker id="circle" viewBox="0 0 8 8" refX="4" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <circle cx="4" cy="4" r="2" class="filled"></circle>
+    </marker>
+    <marker id="open_circle" viewBox="0 0 8 8" refX="4" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <circle cx="4" cy="4" r="2" class="bg_filled"></circle>
+    </marker>
+    <marker id="big_open_circle" viewBox="0 0 8 8" refX="4" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <circle cx="4" cy="4" r="3" class="bg_filled"></circle>
+    </marker>
+  </defs>
+  <rect class="backdrop" x="0" y="0" width="72" height="160"></rect>
+  <text x="34" y="28" >O</text>
+  <line x1="40" y1="32" x2="56" y2="32" class="solid"></line>
+  <text x="58" y="28" >]</text>
+  <text x="50" y="44" >]</text>
+  <text x="10" y="76" >|</text>
+  <text x="42" y="76" >|</text>
+  <line x1="12" y1="80" x2="12" y2="96" class="solid"></line>
+  <line x1="44" y1="80" x2="44" y2="96" class="solid"></line>
+  <g>
+    <line x1="0" y1="16" x2="40" y2="16" class="solid"></line>
+    <line x1="16" y1="16" x2="0" y2="48" class="solid"></line>
+    <line x1="0" y1="48" x2="8" y2="64" class="solid"></line>
+  </g>
+  <g>
+    <line x1="24" y1="48" x2="48" y2="48" class="solid"></line>
+    <line x1="32" y1="48" x2="40" y2="64" class="solid"></line>
+  </g>
+  <g>
+    <line x1="16" y1="96" x2="8" y2="112" class="solid"></line>
+    <line x1="8" y1="112" x2="16" y2="128" class="solid"></line>
+    <line x1="16" y1="128" x2="8" y2="144" class="solid"></line>
+  </g>
+  <g>
+    <line x1="48" y1="96" x2="40" y2="112" class="solid"></line>
+    <line x1="40" y1="112" x2="48" y2="128" class="solid"></line>
+    <line x1="48" y1="128" x2="40" y2="144" class="solid"></line>
+  </g>
+</svg>

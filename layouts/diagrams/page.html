@@ -1,0 +1,33 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  <nav class="nav-inline">
+    <ul>
+      {{ with .Next }}
+        <li><a href="{{ .Permalink }}">Previous</a></li>
+      {{ end }}
+      {{ with .Prev }}
+        <li><a href="{{ .Permalink }}">Next</a></li>
+      {{ end }}
+    </ul>
+  </nav>
+
+  <p>Category:
+    {{ range (.GetTerms "categories") }}
+      <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+
+  <p>Type:
+    {{ range (.GetTerms "types") }}
+      <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+
+  <div class="diagram">
+    {{ .Content }}
+  </div>
+
+  {{ highlight (strings.TrimSpace .RawContent) "text" }}
+
+{{ end }}

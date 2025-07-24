@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['Mermaid']
 weight = 100
 +++
+
 ```kroki {type=mermaid}
 gantt
   title A Gantt diagram

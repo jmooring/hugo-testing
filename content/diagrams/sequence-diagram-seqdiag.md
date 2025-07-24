@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['SeqDiag']
 weight = 160
 +++
+
 ```kroki {type=seqdiag}
 {
   browser  -> webserver [label = "GET /index.html"];

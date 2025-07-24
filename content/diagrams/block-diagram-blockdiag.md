@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['BlockDiag']
 weight = 50
 +++
+
 ```kroki {type=BlockDiag}
 {
   blockdiag -> generates -> "block-diagrams";

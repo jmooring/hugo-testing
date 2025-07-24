@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['PacketDiag']
 weight = 130
 +++
+
 ```kroki {type=packetdiag}
 {
   colwidth = 32;

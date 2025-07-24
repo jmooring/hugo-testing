@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['PlantUML']
 weight = 200
 +++
+
 ```kroki {type=plantuml}
 @startuml
 left to right direction

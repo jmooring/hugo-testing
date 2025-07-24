@@ -1,7 +1,7 @@
-{{- /* Last modified: 2023-04-14T09:35:47-07:00 */}}
+{{- /* Last modified: 2025-04-25T11:05:22-07:00 */}}
 
 {{- /*
-Copyright 2023 Veriphor LLC
+Copyright 2025 Veriphor, LLC
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License. You may obtain a copy of
@@ -24,7 +24,7 @@ References:
 - https://kroki.io/
 - https://kroki.io/#examples
 
-@context {map} Attributes The markdown attributes from the info string.
+@context {map} Attributes The Markdown attributes from the info string.
 @context {string} Inner The content between the leading and trailing code fences, excluding the info string.
 @context {map} Options The highlighting options from the info string.
 @context {int} Ordinal The zero-based ordinal of the code block on the page.
@@ -41,14 +41,14 @@ References:
 {{- $renderHookName := "kroki" }}
 
 {{- /* Verify minimum required version. */}}
-{{- $minHugoVersion := "0.111.3" }}
+{{- $minHugoVersion := "0.147.0" }}
 {{- if lt hugo.Version $minHugoVersion }}
   {{- errorf "The %q code block render hook requires Hugo v%s or later." $renderHookName $minHugoVersion }}
 {{- end }}
 
 {{- /* Get context. */}}
 {{- $attrs := .Attributes }}
-{{- $inner := trim .Inner "\n\r" }}
+{{- $inner := .Inner | strings.TrimSpace }}
 {{- $ordinal := .Ordinal }}
 {{- $position := .Position }}
 
@@ -58,10 +58,10 @@ References:
 
 {{- /* Validate diagram type. */}}
 {{- $supportedTypes := slice
-  "actdiag" "blockdiag" "bpmn" "bytefield" "ditaa" "d2" "dbml" "erd" "graphviz"
-  "mermaid" "nomnoml" "nwdiag" "packetdiag" "pikchr" "plantuml" "rackdiag"
-  "seqdiag" "structurizr" "svgbob" "umlet" "vega" "vegalite" "wavedrom"
-  "wireviz"
+  "actdiag" "blockdiag" "bpmn" "bytefield" "ditaa" "d2" "dbml" "erd"
+  "excalidraw" "graphviz" "mermaid" "nomnoml" "nwdiag" "packetdiag" "pikchr"
+  "plantuml" "rackdiag" "seqdiag" "structurizr" "svgbob" "symbolator" "tikz"
+  "umlet" "vega" "vegalite" "wavedrom" "wireviz"
 }}
 {{- $typesDelimited := delimit $supportedTypes ", " ", and " }}
 {{- if not (in $supportedTypes $diagramType) }}
@@ -86,14 +86,14 @@ References:
 {{- /* Get diagram. */}}
 {{- $body := dict "diagram_source" $inner "diagram_type" $diagramType "output_format" "SVG" | jsonify }}
 {{- $opts := dict "method" "post" "body" $body }}
-{{- with resources.GetRemote $apiEndpoint $opts }}
+{{- with try (resources.GetRemote $apiEndpoint $opts) }}
   {{- with .Err }}
     {{- errorf "The %q code block render hook was unable to get the remote diagram. See %s. %s" $renderHookName $position . }}
-  {{- else }}
+  {{- else with .Value }}
     {{- $attrs = merge $attrs (dict "src" .RelPermalink) }}
+  {{- else }}
+    {{- errorf "The %q code block render hook was unable to get the remote diagram. See %s" $renderHookName $position }}
   {{- end }}
-{{- else }}
-  {{- errorf "The %q code block render hook was unable to get the remote diagram. See %s" $renderHookName $position }}
 {{- end }}
 
 {{- /* Render. */}}

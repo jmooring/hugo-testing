@@ -6,6 +6,7 @@ categories = ['Diagram']
 types =  ['Nomnoml']
 weight = 190
 +++
+
 ```kroki {type=nomnoml}
 [Pirate|eyeCount: Int|raid();pillage()|
   [beard]--[parrot]
