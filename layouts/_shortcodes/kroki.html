@@ -1,0 +1,98 @@
+{{- /* Last modified: 2025-07-24T12:04:11-07:00 */}}
+
+{{- /*
+Copyright 2025 Veriphor, LLC
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at
+
+https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations under
+the License.
+*/}}
+
+{{- /*
+Renders an SVG image of a diagram from a textual description using the Kroki service.
+
+References:
+
+- https://kroki.io/
+- https://kroki.io/#examples
+
+@param {string} [alt=diagram] The alt attribute of the rendered img element.
+@param {string} [class=auto] The class attribute of the rendered img element. The default value is automatically determined.
+@param {string} [id=auto] The id attribute of the rendered img element. The default value is automatically determined.
+@param {string} [title] The title attribute of the rendered img element.
+@param {string} type The type of diagram to render.
+
+@returns {template.html}
+
+@examples
+
+  {{< kroki type="mermaid" >}}
+  gantt
+    title A Gantt diagram
+    dateFormat  YYYY-MM-DD
+    section Section
+    A task           :a1, 2014-01-01, 30d
+    Another task     :after a1, 20d
+    section Another
+    Task in sec      :2014-01-12, 12d
+    another task     :24d
+  {{< /kroki >}}
+
+  {{< kroki type="mermaid" id="my-id" class="my-class" alt="my diagram" title="my title" >}}
+    ...
+  {{< /kroki >}}
+
+*/}}
+
+{{- /* Verify minimum required version. */}}
+{{- $minHugoVersion := "0.147.0" }}
+{{- if lt hugo.Version $minHugoVersion }}
+  {{- errorf "The %q shortcode requires Hugo v%s or later." .Name $minHugoVersion }}
+{{- end }}
+
+{{- /* Initialize. */}}
+{{- $apiEndpoint := "https://kroki.io/" }}
+
+{{- /* Get parameters. */}}
+{{- $type := .Get "type" | lower }}
+{{- $alt := or (.Get "alt") "diagram" }}
+{{- $class := or (.Get "class") (printf "diagram diagram-kroki diagram-kroki-%s" $type) }}
+{{- $id := or (.Get "id") (printf "h-sc-kroki-%d" .Ordinal) }}
+{{- $title := or (.Get "title") "" }}
+
+{{- /* Render diagram. */}}
+{{- $supportedTypes := slice
+  "actdiag" "blockdiag" "bpmn" "bytefield" "ditaa" "d2" "dbml" "erd"
+  "excalidraw" "graphviz" "mermaid" "nomnoml" "nwdiag" "packetdiag" "pikchr"
+  "plantuml" "rackdiag" "seqdiag" "structurizr" "svgbob" "symbolator" "tikz"
+  "umlet" "vega" "vegalite" "wavedrom" "wireviz"
+}}
+{{- $typesDelimited := delimit $supportedTypes ", " ", and " }}
+{{- if in $supportedTypes $type }}
+  {{- $body := dict "diagram_source" (.Inner | strings.TrimSpace) "diagram_type" $type "output_format" "SVG" | jsonify }}
+  {{- $opts := dict "method" "post" "body" $body }}
+  {{- with try (resources.GetRemote $apiEndpoint $opts) }}
+    {{- with .Err }}
+      {{- errorf "The %q shortcode was unable to get the remote diagram. See %s. %s" $.Name $.Position . }}
+    {{- else with .Value }}
+      <img src="{{ .RelPermalink }}"
+        {{- with $alt }} alt="{{ . }}" {{- end }}
+        {{- with $class }} class="{{ . }}" {{- end }}
+        {{- with $id }} id="{{ . }}" {{- end }}
+        {{- with $title }} title="{{ . }}" {{- end -}}
+      >
+    {{- else }}
+      {{- errorf "The %q shortcode was unable to get the remote diagram. See %s" $.Name $.Position }}
+    {{- end }}
+  {{- end }}
+{{- else }}
+  {{- errorf "The %q shortcode does not support diagram type %q. Valid types are %s. See %s" .Name $type $typesDelimited .Position }}
+{{- end }}
