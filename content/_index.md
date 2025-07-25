@@ -5,3 +5,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/55419'
 description = "How to perform pagination under taxonomy.html?"
 +++
+
+Visit the [tags](/tags) page.
