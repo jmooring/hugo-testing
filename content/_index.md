@@ -5,3 +5,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/55447'
 description = "Goldmark rendering problem of '%' sign in LaTeX code snippet"
 +++
+
+This is an inline equation: $10\% = 0.1$
