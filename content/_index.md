@@ -5,3 +5,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/55568'
 description = "Updating from Err to TryValue?"
 +++
+
+{{< foo url="hxttps://fastwomen.substack.com/feed.rss" >}}
