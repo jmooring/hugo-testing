@@ -2,12 +2,16 @@
   {{ with try (resources.GetRemote .) }}
     {{ with .Err }}
       {{ errorf "The %q shortcode was unable to get the remote resource %s: %s: see %s" $.Name $url . $.Position }}
-    {{ else with .Value}}
-      {{ with .Content | transform.Unmarshal }}
-        {{ with .channel.item }}
-          {{ range first 1 . }}
-            {{ with .pubDate }}
-              {{ dateFormat "2006-01-02" . }}
+    {{ else with .Value }}
+      {{ with try (. | transform.Unmarshal) }}
+        {{ with .Err }}
+          {{ errorf "The %q shortcode was unable to unmarshal the remote resource %s: %s: see %s" $.Name $url . $.Position }}
+        {{ else with .Value }}
+          {{ with .channel.item }}
+            {{ range first 1 . }}
+              {{ with .pubDate }}
+                {{ dateFormat "2006-01-02" . }}
+              {{ end }}
             {{ end }}
           {{ end }}
         {{ end }}

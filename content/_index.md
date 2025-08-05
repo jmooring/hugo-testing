@@ -6,4 +6,4 @@ details = 'https://discourse.gohugo.io/t/55568'
 description = "Updating from Err to TryValue?"
 +++
 
-{{< foo url="https://fastwomen.substack.com/xfeed.rss" >}}
+{{< feed-updated url="https://leahsottile.substack.com/feed.rss" >}}
