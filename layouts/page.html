@@ -1,4 +1,9 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ $t := debug.Timer "toc" }}
+  {{ .TableOfContents }}
+  {{ $t.Stop }}
+
   {{ .Content }}
 {{ end }}

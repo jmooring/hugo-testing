@@ -1,3 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #13401'
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 6
+    startLevel = 2
+
+[markup.goldmark.renderer]
+unsafe = true
