@@ -1,3 +1,8 @@
+{{ define "pagination" }}
+  {{ $pages := site.Sections }}
+  {{ .Store.Set "paginator" (.Paginate $pages 5) }}
+{{ end }}
+
 {{ define "main" }}
   {{ with .Params.details }}
     <p>Details: <a href="{{ . }}">{{ . }}</a></p>
@@ -8,8 +13,18 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+
   {{ .Content }}
-  {{ range site.Sections.ByTitle }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ with .Store.Get "paginator" }}
+    {{ range .Pages }}
+      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ end }}
+    {{ partial "pagination.html" $ }}
+  {{ else }}
+    {{ range .Pages }}
+      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ end }}
   {{ end }}
+
 {{ end }}
