@@ -1,0 +1,8 @@
+{{ $page := dict
+  "content" (dict "mediaType" "text/markdown" "value" "foxtrot")
+  "title" "charlie delta"
+  "kind" "term"
+  "slug" "golf"
+  "path" (print "charlie-delta")
+}}
+{{ $.AddPage $page }}
