@@ -37,13 +37,15 @@
   <link rel="next" href="{{ . }}">
 {{- end }}
 
-{{- $urlSuffix := strings.TrimPrefix .Permalink $canonicalURL }}
-{{- range .AllTranslations }}
-  {{- $href := urls.JoinPath .Permalink $urlSuffix "/" }}
-  {{- if eq .Site .Sites.Default }}
-    <link rel="alternate" hreflang="x-default" href="{{ $href }}">
+{{- if .IsTranslated }}
+  {{- $urlSuffix := strings.TrimPrefix .Permalink $canonicalURL }}
+  {{- range .AllTranslations }}
+    {{- $href := urls.JoinPath .Permalink $urlSuffix "/" }}
+    {{- if eq .Site .Sites.Default }}
+      <link rel="alternate" hreflang="x-default" href="{{ $href }}">
+    {{- end }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ $href }}">
   {{- end }}
-  <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ $href }}">
 {{- end }}
 
 {{- if or $isPager (in (slice "section" "taxonomy" "term") .Kind) }}
