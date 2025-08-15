@@ -1,12 +1,18 @@
-{{- $canonicalURL := .Permalink }}
 {{- $title := printf "%s | %s" .Title site.Title }}
 {{- if .IsHome }}
   {{- $title = site.Title }}
 {{- end }}
 
+{{- $canonicalURL := .Permalink }}
 {{- $isPager := false }}
+{{- $nextPermalink := "" }}
+{{- $prevPermalink := "" }}
+
 {{- with .Store.Get "paginator" }}
   {{- $canonicalURL = .URL | absLangURL }}
+  {{- if gt .PageNumber 1 }}
+    {{- $isPager = true }}
+  {{- end }}
   {{- if gt .TotalPages 1 }}
     {{- $title = printf "%s - Page %d | %s" $.Title .PageNumber site.Title }}
     {{- if $.IsHome }}
@@ -14,18 +20,31 @@
     {{- end }}
   {{- end }}
   {{- with .Prev }}
-    <link rel="prev" href="{{ .URL | absLangURL }}">
+    {{- $prevPermalink = .URL | absLangURL }}
   {{- end }}
   {{- with .Next }}
-    <link rel="next" href="{{ .URL | absLangURL }}">
-  {{- end }}
-  {{- if gt .PageNumber 1 }}
-    {{- $isPager = true }}
+    {{- $nextPermalink = .URL | absLangURL }}
   {{- end }}
 {{- end }}
 
-<link rel="canonical" href="{{ $canonicalURL }}">
 <title>{{- $title }}</title>
+
+<link rel="canonical" href="{{ $canonicalURL }}">
+{{- with $prevPermalink }}
+  <link rel="prev" href="{{ . }}">
+{{- end }}
+{{- with $nextPermalink }}
+  <link rel="next" href="{{ . }}">
+{{- end }}
+
+{{- $urlSuffix := strings.TrimPrefix .Permalink $canonicalURL }}
+{{- range .AllTranslations }}
+  {{- $href := urls.JoinPath .Permalink $urlSuffix "/" }}
+  {{- if eq .Site .Sites.Default }}
+    <link rel="alternate" hreflang="x-default" href="{{ $href }}">
+  {{- end }}
+  <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ $href }}">
+{{- end }}
 
 {{- if or $isPager (in (slice "section" "taxonomy" "term") .Kind) }}
   <meta name="robots" content="noindex,follow">
