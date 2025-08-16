@@ -1,4 +1,5 @@
 {{ define "main" }}
+  <div class="debug">[{{ templates.Current.Name }}]</div>
   {{ with .Params.details }}
     <p>Details: <a href="{{ . }}">{{ . }}</a></p>
   {{ end }}
