@@ -71,10 +71,9 @@ Renders an HTML details element.
   {{- with $title }} title="{{ . }}" {{- end -}}
 >
   <summary>
-    {{ $summary | .Page.RenderString }}
-  </summary>
 {{/* Do not delete this comment, and do not indent the following line. */}}
-## {{ $summary | .Page.RenderString }} {class="hidden"}
+## {{ $summary | .Page.RenderString }} {class="heading-within-details-summmary"}
+  </summary>
 
   {{ .Inner | .Page.RenderString (dict "display" "block") -}}
 </details>

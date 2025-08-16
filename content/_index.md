@@ -16,12 +16,10 @@ Accustomed to reach whatever place I started for, I was going up the mountain al
 
 The poor bit of measured time was soon spent, and while the saddles were being adjusted I again urged Emerson to stay. “You are yourself a sequoia,” I said. “Stop and get acquainted with your big brethren.” But he was past his prime, and was now as a child in the hands of his affectionate but sadly civilized friends, who seemed as full of old-fashioned conformity as of bold intellectual independence. It was the afternoon of the day and the afternoon of his life, and his course was now westward down all the mountains into the sunset. The party mounted and rode away in wondrous contentment, apparently, tracing the trail through ceanothus and dogwood bushes, around the bases of the big trees, up the slope of the sequoia basin, and over the divide. I followed to the edge of the grove. Emerson lingered in the rear of the train, and when he reached the top of the ridge, after all the rest of the party were over and out of sight, he turned his horse, took off his hat and waved me a last good-by. I felt lonely, so sure had I been that Emerson of all men would be the quickest to see the mountains and sing them. Gazing awhile on the spot where he vanished, I sauntered back into the heart of the grove, made a bed of sequoia plumes and ferns by the side of a stream, gathered a store of firewood, and then walked about until sundown. The birds, robins, thrushes, warblers, etc., that had kept out of sight, came about me, now that all was quiet, and made cheer. After sundown I built a great fire, and as usual had it all to myself. And though lonesome for the first time in these forests, I quickly took heart again,—the trees had not gone to Boston, nor the birds; and as I sat by the fire, Emerson was still with me in spirit, though I never again saw him in the flesh. He sent books and wrote, cheering me on; advised me not to stay too long in solitude. Soon he hoped that my guardian angel would intimate that my probation was at a close. Then I was to roll up my herbariums, sketches, and poems (though I never knew I had any poems), and come to his house; and when I tired of him and his humble surroundings, he would show me to better people.
 
-{{% details summary="This is the details element" %}}
+{{% details summary="This is the **details** element" %}}
 This is some **bold** text inside the details element, followed by a fenced code block:
 
-<span id="foo"></span>
-
-```go
+```go {lineNos=inline}
 fmt.Println("Hello world")
 panic("Goodbye world")
 ```
