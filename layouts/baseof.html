@@ -4,6 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+
+  {{/* This fails because the href is relative to the site's protocol + host */}}
+  <link rel="stylesheet" href="/styles.css">
+
+  {{/* This works because the href is relative to the site's protocol + host + subdirectory */}}
+  {{/* <link rel="stylesheet" href="{{ `styles.css` | relURL }}"> */}}
+
 </head>
 <body>
   <header>
