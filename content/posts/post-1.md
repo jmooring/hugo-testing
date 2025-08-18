@@ -1,5 +1,9 @@
 +++
 title = 'Post 1'
-date = 2025-08-18T07:57:27-07:00
+date = 2025-08-18T07:06:04-07:00
 draft = false
 +++
+
+The sleeping subterranean fires again awake and shake the mountains, and every leaf trembles. The old craters, with perhaps new ones, are opened, and immense quantities of ashes, pumice, and cinders are again thrown into the sky. The sun, and shorn of his beams, glows like a dull red ball, until hidden in sulphurous clouds. Volcanic snow, hail, and floods fall on the new forest, burying it alive, like the one beneath its roots. Then come another noisy band of mud floods and boulder floods, mixing, settling, enriching the new ground, more seeds, quickening sunshine and showers; and a third noble magnolia forest is carefully raised on the top of the second. And so on. Forest was planted above forest and destroyed, as if Nature were ever repenting, undoing the work she had so industriously done, and burying it.
+
+Of course this destruction was creation, progress in the march of beauty through death. How quickly these old monuments excite and hold the imagination! We see the old stone stumps budding and blossoming and waving in the wind as magnificent trees, standing shoulder to shoulder, branches interlacing in grand varied round-headed forests; see the sunshine of morning and evening gilding their mossy trunks, and at high noon spangling on the thick glossy leaves of the magnolia, filtering through translucent canopies of linden and ash, and falling in mellow patches on the ferny floor; see the shining after rain, breathe the exhaling fragrance, and hear the winds and birds and the murmur of brooks and insects. We watch them from season to season; see the swelling buds when the sap begins to flow in the spring, the opening leaves and blossoms, the ripening of summer fruits, the colors of autumn, and the maze of leafless branches and sprays in winter; and we see the sudden oncome of the storms that overwhelmed them.

@@ -1,3 +1,7 @@
+{{- if .IsHome }}
+  {{- partial "init.html" . }}
+{{- end -}}
+
 <!DOCTYPE html>
 <html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
 <head>

@@ -1,0 +1,7 @@
+  {{- range $p := site.Pages }}
+    {{- with index (index (strings.FindRESubmatch `(?i)<p>(.+)</p>` $p.Content 1) 0) 1 }}
+      {{- if lt (len .) 300 }}
+        {{- errorf "The first paragraph of %s is less than 300 characters." $p.String }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
