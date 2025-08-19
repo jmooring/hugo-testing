@@ -1,0 +1,22 @@
+{{ $menu := "default" }}
+{{ if in (slice "2024" "2025") .Section }}
+  {{ $menu = strings.ToLower .Section }}
+{{ end }}
+
+menu = {{ $menu }}<br><br>
+
+{{ with index site.Menus $menu }}
+  <nav class="nav-inline menu">
+    <ul>
+      {{ range . }}
+        {{ if $.IsMenuCurrent .Menu . }}
+          <li class="active"><a aria-current="page" href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ else if $.HasMenuCurrent .Menu . }}
+          <li class="ancestor"><a aria-current="true" href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ else }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </nav>
+{{ end }}

@@ -1,3 +1,56 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #55739'
+pluralizeListTitles = false
+
+#------------------------------------------------------------------------------
+# Menu: default
+#------------------------------------------------------------------------------
+
+[[menus.default]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.default]]
+name = 'Articles'
+pageRef = '/articles'
+weight = 20
+
+[[menus.default]]
+name = '2024'
+pageRef = '/2024'
+weight = 30
+
+[[menus.default]]
+name = '2025'
+pageRef = '/2025'
+weight = 40
+
+#------------------------------------------------------------------------------
+# Menu: 2024
+#------------------------------------------------------------------------------
+
+[[menus.2024]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.2024]]
+name = 'Books'
+pageRef = '/2024/books'
+weight = 20
+
+#------------------------------------------------------------------------------
+# Menu: 2025
+#------------------------------------------------------------------------------
+
+[[menus.2025]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.2025]]
+name = 'Films'
+pageRef = '/2025/films'
+weight = 20
