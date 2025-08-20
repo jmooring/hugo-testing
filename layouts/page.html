@@ -1,4 +1,35 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+<pre>
+.Params.wards
+
+{{ jsonify (dict "indent" "  ") .Params.wards }}
+</pre>
+
+  {{/* Table of wards their polling stations. */}}
+  {{ with .Params.wards }}
+    <table>
+      <thead>
+        <tr>
+          <th>Ward Name</th>
+          <th>Polling Stations</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range . }}
+          <tr>
+            <td>{{ .name }}</td>
+            <td>
+              {{ range $k, $v := .pollingStations }}
+                {{- if $k }}, {{ end }}{{ $v.name -}}
+              {{ end }}
+            </td>
+          </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  {{ end }}
+
 {{ end }}

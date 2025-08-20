@@ -1,0 +1,14 @@
+{{ range site.Data.counties }}
+  {{ $countyName := .name }}
+  {{ range .states }}
+    {{ $stateName := .name }}
+    {{ $page := dict
+      "content" (dict "mediaType" "text/markdown" "value" "")
+      "kind" "page"
+      "path" (printf "%s/%s" $countyName $stateName)
+      "params" (dict "wards" .wards)
+      "title" $stateName
+    }}
+    {{ $.AddPage $page }}
+  {{ end }}
+{{ end }}

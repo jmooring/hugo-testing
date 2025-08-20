@@ -1,0 +1,73 @@
+[
+  {
+    "name": "CountyName",
+    "states": [
+      {
+        "name": "ConstituencyName1",
+        "wards": [
+          {
+            "name": "WardName1",
+            "pollingStations": [
+              {
+                "name": "PollingStation1"
+              },
+              {
+                "name": "PollingStation2"
+              },
+              {
+                "name": "PollingStation3"
+              }
+            ]
+          },
+          {
+            "name": "WardName2",
+            "pollingStations": [
+              {
+                "name": "PollingStation4"
+              },
+              {
+                "name": "PollingStation5"
+              },
+              {
+                "name": "PollingStation7"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ConstituencyName2",
+        "wards": [
+          {
+            "name": "WardName3",
+            "pollingStations": [
+              {
+                "name": "PollingStation7"
+              },
+              {
+                "name": "PollingStation8"
+              },
+              {
+                "name": "PollingStation9"
+              }
+            ]
+          },
+          {
+            "name": "WardName4",
+            "pollingStations": [
+              {
+                "name": "PollingStation10"
+              },
+              {
+                "name": "PollingStation11"
+              },
+              {
+                "name": "PollingStation12"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
