@@ -64,12 +64,12 @@
 
     {{- range $k := seq $start $end }}
       {{- if eq $.Paginator.PageNumber $k }}
-      <li class="page-item active">
-        <a aria-current="page" aria-label="Page {{ $k }}" class="page-link" role="button">{{ $k }}</a>
+      <li>
+        <a aria-current="page" aria-label="Page {{ $k }}" class="flex items-center justify-center px-4 h-10 leading-tight text-gray-400 bg-white border border-gray-300 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-600" role="button">{{ $k }}</a>
       </li>
       {{- else }}
-      <li class="page-item">
-        <a href="{{ (index $.Paginator.Pagers (sub $k 1)).URL }}" aria-label="Page {{ $k }}" class="page-link" role="button">{{ $k }}</a>
+      <li>
+        <a href="{{ (index $.Paginator.Pagers (sub $k 1)).URL }}" aria-label="Page {{ $k }}" class="flex items-center justify-center px-4 h-10 leading-tight text-black bg-white border border-gray-300 hover:bg-red-600 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-900 dark:hover:text-red-900" role="button">{{ $k }}</a>
       </li>
       {{- end }}
     {{- end }}
