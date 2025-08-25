@@ -9,7 +9,26 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
+  {{ $t := debug.Timer "collections.Shuffle" }}
+    <ul>
+      {{ $p := site.RegularPages }}
+      {{ range $p | collections.Shuffle | first 5 }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
+  {{ $t.Stop }}
+
+
+  {{ $t := debug.Timer "collections.D" }}
+    <ul>
+      {{ $p := site.RegularPages }}
+      {{ range collections.D now.YearDay 5 ($p | len) }}
+        {{ with (index $p .) }}
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  {{ $t.Stop }}
+
 {{ end }}
