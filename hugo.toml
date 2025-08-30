@@ -1,3 +1,6 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-US'
+locale = 'en-US'
 title = 'Hugo GitHub Issue #11266'
+
+[module.hugoVersion]
+min = '0.167.0'

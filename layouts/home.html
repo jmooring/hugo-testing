@@ -38,29 +38,29 @@
     {{ range . }}
       <h3>{{ .Name }}</h3>
 
-      {{ with .Resize (printf "%dx%d r0" .Width .Height) }}
-        {{ with .Fill "200x200 smart" }}
-          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
-        {{ end }}
+    {{ with .Process "r0" }}
+      {{ with .Fill "200x200 smart" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
       {{ end }}
+    {{ end }}
 
-      {{ with .Resize (printf "%dx%d r90" .Height .Width) }}
-        {{ with .Fill "200x200 smart" }}
-          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
-        {{ end }}
+    {{ with .Process "r90" }}
+      {{ with .Fill "200x200 smart" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
       {{ end }}
+    {{ end }}
 
-      {{ with .Resize (printf "%dx%d r180" .Width .Height) }}
-        {{ with .Fill "200x200 smart" }}
-          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
-        {{ end }}
+    {{ with .Process "r180" }}
+      {{ with .Fill "200x200 smart" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
       {{ end }}
+    {{ end }}
 
-      {{ with .Resize (printf "%dx%d r270" .Height .Width) }}
-        {{ with .Fill "200x200 smart" }}
-          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
-        {{ end }}
+    {{ with .Process "r270" }}
+      {{ with .Fill "200x200 smart" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
       {{ end }}
+    {{ end }}
 
     {{ end }}
   {{ end }}
