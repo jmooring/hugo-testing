@@ -1,10 +1,17 @@
-baseURL = 'https://example.org/'
+baseURL      = 'https://example.org/'
 languageCode = 'en-US'
-title = 'Hugo GitHub Issue #11601'
-disableKinds = ['RSS','sitemap','taxonomy','term']
+title        = 'Hugo GitHub Issue #11601'
+disableKinds = ['RSS', 'sitemap', 'taxonomy', 'term']
 
 # This is not necessary, but this makes it easier to see what's cached when
 # testing resources.GetRemote.
 [caches.getresource]
-dir = ':resourceDir/_gen'
-maxAge = -1
+  dir    = ':resourceDir/_gen'
+  maxAge = -1
+
+[security]
+  [security.http]
+    mediaTypes = ['^application/rss\+xml; charset=UTF-8$']
+
+[module.hugoVersion]
+  min = '0.148.0'

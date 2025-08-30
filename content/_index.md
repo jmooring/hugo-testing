@@ -7,6 +7,6 @@ details = 'https://github.com/gohugoio/hugo/issues/11601'
 description = "Build and Server inconsistency"
 +++
 
-The markdown for this page calls `{{</* test-get-remote */>}}`. Everything is working if you an unordered list below.
+The markdown for this page calls `{{</* test-get-remote */>}}`. Everything is working if you see an unordered list below.
 
 {{< test-get-remote >}}
