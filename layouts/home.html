@@ -10,10 +10,10 @@
   {{ end }}
 
 <pre>
-{{ resources.Get "images/a.jpg" }} --> <nil>
-{{ resources.Get "images/b.jpg" }} --> images/b.jpg
-{{ resources.GetMatch "images/a.jpg" }} --> images/a.jpg
-{{ resources.GetMatch "images/b.jpg" }} --> images/b.jpg
+&lbrace;{ resources.Get "images/a.jpg" }}       --> {{ resources.Get "images/a.jpg" }}
+&lbrace;{ resources.Get "images/b.jpg" }}       --> {{ resources.Get "images/b.jpg" }}
+&lbrace;{ resources.GetMatch "images/a.jpg" }}  --> {{ resources.GetMatch "images/a.jpg" }}
+&lbrace;{ resources.GetMatch "images/b.jpg" }}  --> {{ resources.GetMatch "images/b.jpg" }}
 </pre>
 
 
