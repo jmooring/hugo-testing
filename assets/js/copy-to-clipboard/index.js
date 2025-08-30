@@ -11,10 +11,14 @@ import * as icons from './icons.js'
  * @return  {void}
  */
 function addCopyToClipboardButtons(containerClass, buttonClass = 'copy-button') {
+  const iconChangeTimeout = 1300;
   const containers = document.querySelectorAll(`.${containerClass}`);
 
   containers.forEach(container => {
-    container.insertAdjacentHTML('afterbegin', `<button class="${buttonClass}">${icons.faCopyRegular}</button>`);
+    const button = document.createElement('button');
+    button.className = buttonClass;
+    button.innerHTML = icons.faCopyRegular;
+    container.prepend(button);
   });
 
   const clipboard = new ClipboardJS(`.${buttonClass}`, {
@@ -24,15 +28,27 @@ function addCopyToClipboardButtons(containerClass, buttonClass = 'copy-button') 
   });
 
   clipboard.on('success', (e) => {
-    if (e.action == 'copy') {
+    if (e.action === 'copy') {
+      const originalIcon = e.trigger.innerHTML;
+      e.trigger.innerHTML = icons.faCheck;
+
       setTimeout(() => {
+        e.trigger.innerHTML = originalIcon;
         e.clearSelection();
-      }, 1300);
+      }, iconChangeTimeout);
     }
+
   });
 
   clipboard.on('error', (e) => {
     console.error('ClipboardJS Error:', e.action, e.trigger);
+
+    const originalIcon = e.trigger.innerHTML;
+    e.trigger.innerHTML = icons.faBomb; // Assuming you have a cross or 'times' icon
+
+    setTimeout(() => {
+      e.trigger.innerHTML = originalIcon;
+    }, iconChangeTimeout);
   });
 }
 

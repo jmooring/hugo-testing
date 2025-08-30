@@ -1,12 +1,3 @@
-/* Variables */
-/* ------------------------------------------------------------------------- */
-
-$white: #fafafa;
-$black: #222222;
-$blue: #0000ff;
-$yellow: #ffff00;
-$cyan: #00ffff;
-
 /* Base */
 /* ------------------------------------------------------------------------- */
 
@@ -19,20 +10,23 @@ html {
 }
 
 body {
-  margin: 0 1rem 4rem;
+  margin: 0 1rem;
   max-width: 768px;
-  background-color: $white;
-  color: $black;
 }
 
 a {
-  color: $blue;
+  color: blue;
   text-decoration: none;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
 }
 
 ::selection {
   background-color: #666;
-  color: $white;
+  color: #fff;
 }
 
 details {
@@ -46,8 +40,8 @@ details {
   margin-bottom: 1rem;
 }
 
+.nav-inline ol,
 .nav-inline ul {
-  font-size: 0;
   padding: 0;
 }
 
@@ -56,16 +50,23 @@ details {
 }
 
 .nav-inline a {
-  font-size: 1rem;
   padding: 0.25em 0.5em;
 }
 
+.nav-inline li:first-of-type a {
+  padding-left: 0;
+}
+
+.nav-inline li:last-of-type a {
+  padding-right: 0;
+}
+
 .nav-inline li.active a {
-  background-color: $yellow;
+  background-color: yellow;
 }
 
 .nav-inline li.ancestor a {
-  background-color: $cyan;
+  background-color: cyan;
 }
 
 .nav-inline.breadcrumbs li:not(:last-child)::after {
@@ -120,7 +121,7 @@ details {
   padding: 0;
   position: absolute;
   float: right;
-  right: 8px;
+  right: 9px;
   top: 8px;
   opacity: 0;
   transition: opacity 0.2s ease-in-out;
@@ -135,5 +136,5 @@ details {
 }
 
 .copy-button > svg > path {
-  fill: $white;
+  fill: #fff;
 }
