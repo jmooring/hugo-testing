@@ -17,5 +17,5 @@ hugo server
 Then in a new terminal:
 
 ```bash
-echo "body {color: red}" > assets/styles.css 
+echo "body {color: red}" > assets/css/styles.css
 ```

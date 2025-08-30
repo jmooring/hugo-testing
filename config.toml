@@ -1,18 +1,22 @@
-baseURL = 'https://example.org/'
+baseURL      = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Hugo Forum Topic #37345'
+title        = 'Hugo Forum Topic #37345'
 
-disableKinds = ['RSS','sitemap','taxonomy','term']
+disableKinds = ['RSS', 'sitemap', 'taxonomy', 'term']
+
+[module.hugoVersion]
+  min = '0.148.0'
 
 # Default mounts
 [[module.mounts]]
 source = 'assets'
 target = 'assets'
-[[module.mounts]]
-source = 'static'
-target = 'static'
 
-# This triggers the problem
 [[module.mounts]]
-source = 'assets'
-target = 'static'
+  source = 'static'
+  target = 'static'
+
+# Mount static to assets
+[[module.mounts]]
+  source = "static/css"
+  target = "assets/css"
