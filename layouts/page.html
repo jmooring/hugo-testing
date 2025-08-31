@@ -20,7 +20,7 @@
   Loop until we have listed the desired number of unique random pages.
   */}}
   {{ $t := debug.Timer "TestListRandomPagesMethodA" }}
-  <p>Random pages:</p>
+  <p>Random pages using Method A:</p>
   <ul>
     {{ $randomPages := slice }}
     {{ range math.MaxInt64 }}
@@ -45,7 +45,7 @@
   element in case the random page is the current page.
   */}}
   {{ $t := debug.Timer "TestListRandomPagesMethodB" }}
-  <p>Random pages:</p>
+  <p>Random pages using Method B:</p>
   <ul>
     {{ $c := 0 }}
     {{ range partial "get-random-ints.html" (dict "qty" (add $n 1) "min" 0 "max" (sub $pc.Len 1)) }}
@@ -67,7 +67,7 @@
   Range over the shuffled page collection.
   */}}
   {{ $t := debug.Timer "TestListRandomPagesMethodC" }}
-  <p>Random pages:</p>
+  <p>Random pages using Method C:</p>
   <ul>
     {{ $c := 0 }}
     {{ range $p := shuffle $pc }}
@@ -83,9 +83,24 @@
   </ul>
   {{ $t.Stop }}
 
+  {{/*
+  Method D:
+  Used the Collections.D function.
+  */}}
+  {{ $t := debug.Timer "TestListRandomPagesMethodD" }}
+  <p>Random pages using Method D:</p>
+  <ul>
+    {{ range collections.D now.UnixNano $n ($pc | len) }}
+      {{ with (index $pc .) }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    {{ end }}
+  </ul>
+  {{ $t.Stop }}
+
   {{ .Content }}
 {{ end }}
 
 {{ define "_partials/create-page-collection.html" }}
-  {{ return site.RegularPages }}
+  {{ return site.RegularPages.ByTitle }}
 {{ end }}
