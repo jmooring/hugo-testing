@@ -5,3 +5,8 @@ draft = false
 details = 'https://discourse.gohugo.io/t/55832'
 description = "Trouble mounting and accessing node_modules"
 +++
+
+[/css/main.css](/css/main.css)
+
+[/js/main.js](/js/main.js)
+  

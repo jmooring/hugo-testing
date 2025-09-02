@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import "flowbite/src/themes/default.css";
+
+@plugin "@tailwindcss/typography";
+@plugin "flowbite/plugin";
+
+@source "hugo_stats.json";
+
+hr {
+  @apply m-1;
+}
+
+a {
+  @apply text-blue-700;
+}

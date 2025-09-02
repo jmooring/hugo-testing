@@ -4,8 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+  {{ with (templates.Defer (dict "key" "global")) }}
+    {{ partial "css.html" . }}
+  {{ end }}
+  {{ partial "js.html" . }}
 </head>
-<body>
+<body class="prose prose-stone m-4">
   <header>
     <h1><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a></h1>
     <hr>
