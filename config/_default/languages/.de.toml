@@ -1,0 +1,5 @@
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 2
+title = 'My Site (de)'
