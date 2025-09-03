@@ -1,3 +1,61 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo Forum Topic #7660'
+baseURL                        = 'https://example.org/'
+enableGitInfo                  = true
+defaultContentLanguage         = 'en'
+defaultContentLanguageInSubdir = true
+
+# -----------------------------------------------------------------------------
+# Languages
+# -----------------------------------------------------------------------------
+
+[languages.en]
+  languageCode      = 'en-US'
+  languageDirection = 'ltr'
+  languageName      = 'English'
+  weight            = 1
+  title             = 'Hugo Forum Topic #7660 (en)'
+
+[languages.de]
+  languageCode      = 'de-DE'
+  languageDirection = 'ltr'
+  languageName      = 'Deutsch'
+  weight            = 2
+  title             = 'Hugo Forum Topic #7660 (de)'
+
+# -----------------------------------------------------------------------------
+# Menus
+# -----------------------------------------------------------------------------
+
+[[languages.en.menus.main]]
+  name    = 'Home (en)'
+  pageRef = '/'
+  weight  = 10
+
+[[languages.en.menus.main]]
+  name    = 'Posts (en)'
+  pageRef = '/posts'
+  weight  = 20
+
+[[languages.de.menus.main]]
+  name    = 'Home (de)'
+  pageRef = '/'
+  weight  = 10
+
+[[languages.de.menus.main]]
+  name    = 'Posts (de)'
+  pageRef = '/posts'
+  weight  = 20
+
+# -----------------------------------------------------------------------------
+# Module
+# -----------------------------------------------------------------------------
+
+[[module.imports]]
+  path = 'github.com/jmooring/hugo-module-debug'
+
+# -----------------------------------------------------------------------------
+# Params
+# -----------------------------------------------------------------------------
+
+[params]
+  foo = 'bar'
+  baz = 'qux'

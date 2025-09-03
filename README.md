@@ -13,3 +13,5 @@ git clone --single-branch -b hugo-forum-topic-7660 https://github.com/jmooring/h
 cd hugo-forum-topic-7660
 hugo server
 ```
+
+Then open the browser's debug console.
