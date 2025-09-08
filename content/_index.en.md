@@ -1,5 +1,5 @@
 ---
-title: Home (de)
+title: Home (en)
 date: 2025-09-08T14:44:33.000Z
 draft: false
 details: https://discourse.gohugo.io/t/55883

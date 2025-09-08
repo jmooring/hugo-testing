@@ -1,3 +1,19 @@
 baseURL = 'https://example.org/'
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+defaultContentLanguage = 'de'
+defaultContentLanguageInSubdir = true
+
+[languages.de]
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 1
+title = 'Hugo Forum Topic #55883 (de)'
+
+[languages.en]
 languageCode = 'en-US'
-title = 'Hugo Forum Topic #55883'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 2
+title = 'Hugo Forum Topic #55883 (en)'
