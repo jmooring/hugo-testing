@@ -4,6 +4,10 @@ disableKinds = ['rss','sitemap','taxonomy','term']
 defaultContentLanguage = 'de'
 defaultContentLanguageInSubdir = true
 
+# -----------------------------------------------------------------------------
+# Languages
+# -----------------------------------------------------------------------------
+
 [languages.de]
 languageCode = 'de-DE'
 languageDirection = 'ltr'
@@ -17,3 +21,17 @@ languageDirection = 'ltr'
 languageName = 'English'
 weight = 2
 title = 'Hugo Forum Topic #55883 (en)'
+
+# -----------------------------------------------------------------------------
+# Mounts
+# -----------------------------------------------------------------------------
+
+[[module.mounts]]
+source = 'content'
+target = 'content'
+lang = 'en'
+
+[[module.mounts]]
+source = 'content'
+target = 'content'
+lang = 'de'
