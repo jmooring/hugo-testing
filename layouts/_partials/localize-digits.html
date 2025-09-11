@@ -1,0 +1,10 @@
+{{ $result := "" }}
+{{ if in (slice "fa-ir") (lower .page.Language.LanguageCode) }}
+  {{ $m := dict "0" "٠" "1" "١" "2" "٢" "3" "٣" "4" "٤" "5" "٥" "6" "٦" "7" "٧" "8" "٨" "9" "٩" }}
+  {{ range split (string .value) "" }}
+    {{ $result = add $result (or (index $m .) .) }}
+  {{ end }}
+{{ else }}
+  {{ $result = .value }}
+{{ end }}
+{{ return $result }}

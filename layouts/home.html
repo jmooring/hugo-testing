@@ -9,7 +9,14 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
+
+<pre>
+&lbrace;{ partial "localize-digits.html" (dict "page" . "value" (lang.FormatPercent 2 515.20)) }}:
+{{ partial "localize-digits.html" (dict "page" . "value" (lang.FormatPercent 2 515.20)) }}
+
+&lbrace;{ T "foo" }}:
+{{ T "foo" }}
+</pre>
+
 {{ end }}

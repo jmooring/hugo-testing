@@ -1,3 +1,18 @@
 baseURL = 'https://example.org/'
+disableKinds = ['rss','sitemap','taxonomy','term']
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
 languageCode = 'en-US'
-title = 'Hugo GitHub Issue #13862'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+title = 'Hugo GitHub Issue #13862 (en)'
+
+[languages.fa-IR]
+languageCode = 'fa-IR'
+languageDirection = 'ltr'
+languageName = 'Persian'
+weight = 2
+title = 'Hugo GitHub Issue #13862 (fa-IR)'
