@@ -1,3 +1,21 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #13981'
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+[permalinks]
+  [permalinks.section]
+    docs = "/notes/"
+  [permalinks.page]
+    docs = "/notes/:sections[1:]/:slug/"
+
+[menus]
+  [[menus.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+  [[menus.main]]
+  name = "Notes"
+  pageRef = "/docs"
+  weight = 20
