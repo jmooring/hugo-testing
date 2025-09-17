@@ -1,7 +1,27 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
+{{ $pages := where .Data.Pages "Type" "presentations" }}
+{{ range $pages.GroupByDate "2006" }}
+  <div class="post-group">
+    <h3>{{ .Key }}</h3>
+    <ul>
+      {{ range .Pages }}
+        <li>
+          <a class="link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ with .Params.image }}
+            {{ with resources.Get . }}
+              {{ with .Process "resize 200x wepb" }}
+                <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+              {{ end }}
+            {{ end }}
+          {{ end }}
+          <time>{{ .PublishDate.Format .Site.Params.dateFormat }}</time>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
+
 {{ end }}
