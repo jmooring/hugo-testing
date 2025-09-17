@@ -1,3 +1,9 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #55930'
+
+[markup.goldmark.renderHooks.image]
+useEmbedded = 'always'
+
+[markup.goldmark.renderHooks.link]
+useEmbedded = 'always'
