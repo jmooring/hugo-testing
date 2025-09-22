@@ -1,4 +1,7 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  <p>Product name extracted from front matter in layouts/page.html: {{ .Params.productName }}</p>
+
 {{ end }}

@@ -1,3 +1,43 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #13818'
+baseURL             = 'https://example.org/'
+languageCode        = 'en-US'
+title               = 'Hugo GitHub Issue #13818'
+disableKinds        = ['rss', 'sitemap', 'taxonomy', 'term']
+
+[[module.mounts]]
+  source = 'content'
+  target = 'content'
+
+[[module.mounts]]
+  source = 'shared/tutorials'
+  target = 'content/product-1/tutorials'
+
+[[module.mounts]]
+  source = 'shared/tutorials'
+  target = 'content/product-2/tutorials'
+
+[[cascade]]
+  [cascade.params]
+    productName = 'Product 1'
+  [cascade.target]
+    path = '{/product-1/,/product-1/**}'
+
+[[cascade]]
+  [cascade.params]
+    productName = 'Product 2'
+  [cascade.target]
+    path = '{/product-2/,/product-2/**}'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Product 1'
+pageRef = '/product-1'
+weight = 20
+
+[[menus.main]]
+name = 'Product 2'
+pageRef = '/product-2'
+weight = 30
