@@ -1,3 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #55952'
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+[mediaTypes.'application/manifest+json']
+suffixes = ['json']
+
+[outputFormats.webappmanifest]
+mediaType = 'application/manifest+json'
+
+[outputs]
+home = ['html','webappmanifest']
