@@ -1,18 +1,10 @@
-baseURL = 'https://example.org/'
-disableKinds = ['rss','sitemap','taxonomy','term']
+title = 'my site'
+disableKinds = ['rss','section','sitemap','taxonomy','term']
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 
 [languages.en]
-languageCode = 'en-US'
-languageDirection = 'ltr'
-languageName = 'English'
 weight = 1
-title = 'Hugo GitHub Issue #13998 (en)'
 
-[languages.it]
-languageCode = 'it-IT'
-languageDirection = 'ltr'
-languageName = 'Italian'
+[languages.de]
 weight = 2
-title = 'Hugo GitHub Issue #13998 (it)'
