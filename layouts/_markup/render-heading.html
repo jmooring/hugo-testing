@@ -1,0 +1,8 @@
+{{ $id := .PlainText | strings.ReplaceRE `^\d+\.\s` "" | urls.Anchorize }}
+{{ $attr := merge .Attributes (dict "id" $id) }}
+<h{{ .Level }}
+  {{- range $k, $v := $attr }}
+    {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+  {{- end }}>
+  {{ .Text }}
+</h{{ .Level }}>
