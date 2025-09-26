@@ -1,3 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #14002'
+
+[mediaTypes.'text/html']
+  delimiter = '.'
+  suffixes = ['html', 'htm', 'txt']
+
+[outputFormats]
+  [outputFormats.html]
+    mediaType = 'text/html'
