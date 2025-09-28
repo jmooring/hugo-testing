@@ -1,7 +1,7 @@
 +++
 title = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-09-28T06:42:29-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/8045'
+description = "Support `extension.WithFootnoteIDPrefix` (aka `footnoteAnchorPrefix` for Blackfriday) for `goldmark`"
 +++
