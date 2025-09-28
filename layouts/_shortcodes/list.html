@@ -1,0 +1,7 @@
+{{ $section := or (.Get "section") "/" }}
+{{ with site.GetPage $section }}
+  {{ range .Pages.ByTitle }}
+## [{{ .LinkTitle }}]({{ .RelPermalink }}){{/* Do not indent. */}}
+{{ .RenderShortcodes }}{{/* Do not indent. */}}
+  {{ end }}
+{{ end }}

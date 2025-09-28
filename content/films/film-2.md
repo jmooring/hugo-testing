@@ -1,0 +1,15 @@
++++
+title = 'Film 2'
+date = 2025-09-28T06:45:25-07:00
+draft = false
++++
+We have in this chapter discussed some of the difficulties[^baz] and objections[^qux] which may be urged against my theory. Many of them are very serious; but I think that in the discussion light has been thrown on several facts, which on the theory of independent acts of creation are utterly obscure. We have seen that species at any one period are not indefinitely variable, and are not linked together by a multitude of intermediate gradations, partly because the process of natural selection will always be very slow, and will act, at any one time, only on a very few forms; and partly because the very process of natural selection almost implies the continual supplanting and extinction of preceding and intermediate gradations. Closely allied species, now living on a continuous area, must often have been formed when the area was not continuous, and when the conditions of life did not insensibly graduate away from one part to another. When two varieties are formed in two districts of a continuous area, an intermediate variety will often be formed, fitted for an intermediate zone; but from reasons assigned, the intermediate variety will usually exist in lesser numbers thanthe two forms which it connects; consequently the two latter, during the course of further modification, from existing in greater numbers, will have a great advantage over the less numerous intermediate variety, and will thus generally succeed in supplanting and exterminating it.
+
+We have seen in this chapter how cautious we should be in concluding that the most different habits of life could not graduate into each other; that a bat, for instance, could not have been formed by natural selection from an animal which at first could only glide through the air.
+
+We have seen that a species may under new conditions of life change its habits, or have diversified habits, with some habits very unlike those of its nearest congeners. Hence we can understand, bearing in mind that each organic being is trying to live wherever it can live, how it has arisen that there are upland geese with webbed feet, ground woodpeckers, diving thrushes, and petrels with the habits of auks.
+
+The mountain quail, or plumed partridge (_Oreortyx pictus plumiferus_) is common in all the upper portions of the Park, though nowhere in numbers. He ranges considerably higher than the grouse in summer, but is unable to endure the heavy storms of winter. When his food is buried, he descends the range to the brushy foothills, at a height of from two to three thousand feet above sea; but like every true mountaineer, he is quick to follow the spring back into the highest mountains. I think he is the very handsomest and most interesting of all the American partridges, larger and handsomer than the famous Bob White, or even the fine California valley quail, or the Massena partridge of Arizona and Mexico. That he is not so regarded, is because as a lonely mountaineer he is not half known.
+
+[^baz]: This is the first footnote in Film 2.
+[^qux]: This is the second footnote in Film 2.

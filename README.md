@@ -2,7 +2,7 @@
 
 Details: <https://github.com/gohugoio/hugo/issues/8045>
 
-Description: Support `extension.WithFootnoteIDPrefix` (aka `footnoteAnchorPrefix` for Blackfriday) for `goldmark`
+Description: Add auto-prefixing option to Goldmark's footnote extension
 
 ## Instructions
 

@@ -1,3 +1,25 @@
-baseURL = 'https://example.org/'
+baseURL      = 'https://example.org/'
 languageCode = 'en-US'
-title = 'Hugo GitHub Issue #8045'
+title        = 'Hugo GitHub Issue #8045'
+
+[markup.goldmark.extensions.footnote]
+  enableAutoIDPrefix = true
+  backlinkHTML = "&#x21a9;&#xfe0f;"
+
+[markup.highlight]
+  style = 'modus-vivendi'
+
+[[menus.main]]
+  name    = 'Home'
+  pageRef = '/'
+  weight  = 10
+
+[[menus.main]]
+  name    = 'Books'
+  pageRef = '/books'
+  weight  = 20
+
+[[menus.main]]
+  name    = 'Films'
+  pageRef = '/films'
+  weight  = 30
