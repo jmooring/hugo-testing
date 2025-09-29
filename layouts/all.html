@@ -1,0 +1,5 @@
+{{ range resources.Match "**" }}
+  RESOURCE_NAME: {{ .Name }}
+  RESOURCE_CONTENT: {{ .Content }}
+{{ end }}
+<script src="script.js"></script>
