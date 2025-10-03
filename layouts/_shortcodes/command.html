@@ -1,0 +1,62 @@
+{{ $englishCommand := "" }}
+{{ $localCommand := ""}}
+{{ $imageName := "" }}
+{{ $version := "" }}
+{{ $platform := "" }}
+
+{{ if .IsNamedParams }}
+    {{ if .Get "english-command" }}{{ $englishCommand = .Get "english-command" }}{{ end }}
+    {{ $localCommand = (.Get "local-command" | default $englishCommand) }}
+    {{ $imageName = (.Get "image-name" | default $englishCommand) }}
+    {{ $version = (.Get "version" | default (string .Site.Params.latestVersion)) }}
+    {{ $platform = (.Get "platform" | default "win") }}
+{{ else }}
+    {{ $englishCommand = .Get 0 }}
+    {{ $localCommand = (.Get 1 | default $englishCommand) }}
+    {{ $imageName = (.Get 2 | default $englishCommand)}}
+    {{ $version = (.Get 3 | default (string .Site.Params.latestVersion)) }}
+    {{ $platform = (.Get 4 | default "win") }}
+{{ end }}
+
+<a href=".../{{$version}}/help/{{.Site.Params.docLang}}/index.htm#commands/{{lower $englishCommand }}.htm" target="_blank">
+<span style="display: inline-block;" class="unfurl-link">
+<strong>
+    <img style="
+    margin-top: -4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    height: 24px;
+    vertical-align: middle;" src=".../{{$version}}/help/{{.Site.Params.docLang}}/image/command_icons/{{lower $imageName }}.png"
+    onerror="this.onerror=null;this.style.display='none';"
+    >
+{{ $localCommand }}
+</strong>
+
+<script>
+var parser = new DOMParser();
+var href = "https:.../{{$version}}/help/{{.Site.Params.docLang}}/unfurl/{{lower $englishCommand }}.htm"
+var scriptTag = document.getElementsByTagName('script');
+scriptTag = scriptTag[scriptTag.length - 1];
+var parentTag = scriptTag.parentNode;
+
+function addPreviewDiv(parent){
+const previewElement = document.createElement("span");
+previewElement.classList.add("cmd_tooltip");
+previewElement.classList.add("arrow-top");
+
+const iframeElement = document.createElement("iframe");
+iframeElement.src = href;
+iframeElement.style.width = "100%";
+iframeElement.style.height = "100%";
+iframeElement.style.border = "none";
+previewElement.appendChild(iframeElement);
+
+parent.appendChild(previewElement)
+}
+
+addPreviewDiv(parentTag)
+
+</script>
+
+</span>
+</a>
