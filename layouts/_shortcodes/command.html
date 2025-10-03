@@ -18,30 +18,23 @@
             {{ $localCommand }}
         </strong>
     </span>
-</a>
-
-{{/* You cannot place a script element within an span element per the HTML spec. */}}
+</a>{{- /**/ -}}
 <script>
-    var parser = new DOMParser();
-    var href = "https://docs.mcneel.com/rhino/8/help/en-us/unfurl/dragmode.htm"
-    var scriptTag = document.getElementsByTagName('script');
-    scriptTag = scriptTag[scriptTag.length - 1];
-    var parentTag = scriptTag.parentNode;
-
-    function addPreviewDiv(parent){
-    const previewElement = document.createElement("span");
-    previewElement.classList.add("cmd_tooltip");
-    previewElement.classList.add("arrow-top");
-
-    const iframeElement = document.createElement("iframe");
-    iframeElement.src = href;
-    iframeElement.style.width = "100%";
-    iframeElement.style.height = "100%";
-    iframeElement.style.border = "none";
-    previewElement.appendChild(iframeElement);
-
-    parent.appendChild(previewElement);
-    }
-
-    addPreviewDiv(parentTag);
+var parser = new DOMParser();
+var href = 'https://docs.mcneel.com/rhino/8/help/en-us/unfurl/dragmode.htm';
+var scriptTag = document.getElementsByTagName('script');
+var spanElement = scriptTag[scriptTag.length - 1].parentNode.firstElementChild.firstElementChild;
+function addPreviewDiv(spanElement){
+  const previewElement = document.createElement('span');
+  previewElement.classList.add('cmd_tooltip');
+  previewElement.classList.add('arrow-top');
+  const iframeElement = document.createElement('iframe');
+  iframeElement.src = href;
+  iframeElement.style.width = '100%';
+  iframeElement.style.height = '100%';
+  iframeElement.style.border = 'none';
+  previewElement.appendChild(iframeElement);
+  spanElement.appendChild(previewElement);
+}
+addPreviewDiv(spanElement);
 </script>

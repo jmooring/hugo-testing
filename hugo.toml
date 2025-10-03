@@ -1,7 +1,10 @@
-baseURL = 'https://example.org/'
+baseURL      = 'https://example.org/'
 languageCode = 'en-US'
-title = 'Hugo Forum Topic #56012'
-disableKinds = ['page','rss','section','sitemap','taxonomy','term']
+title        = 'Hugo Forum Topic #56012'
+disableKinds = ['page', 'rss', 'section', 'sitemap', 'taxonomy', 'term']
 
 [markup.goldmark.renderer]
-unsafe = true
+  unsafe = true
+
+[markup.goldmark.extensions.typographer]
+  disable = true
