@@ -1,7 +1,11 @@
 {{ define "main" }}
+  <pre style="color: red;">
+    template: {{ templates.Current.Filename }}
+    page kind: {{ .Kind }}
+  </pre>
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ range .Pages }}
+  {{ range .Pages.ByTitle }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
 {{ end }}

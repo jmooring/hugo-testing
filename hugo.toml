@@ -1,3 +1,9 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #56053'
+
+[[cascade]]
+layout = 'descendent-section'
+[cascade.target]
+path = '{/products/**}'
+kind = 'section'

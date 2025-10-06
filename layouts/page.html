@@ -1,4 +1,8 @@
 {{ define "main" }}
+  <pre style="color: red;">
+    template: {{ templates.Current.Filename }}
+    page kind: {{ .Kind }}
+  </pre>
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 {{ end }}
