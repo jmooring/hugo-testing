@@ -1,3 +1,42 @@
 baseURL = 'https://example.org/'
+disableKinds = ['rss','sitemap']
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
 languageCode = 'en-US'
-title = 'Hugo Forum Topic #56056'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+title = 'Hugo Forum Topic #56056 (en)'
+
+[languages.fr]
+languageCode = 'fr-FR'
+languageDirection = 'ltr'
+languageName = 'Français'
+weight = 2
+title = 'Hugo Forum Topic #56056 (fr)'
+
+[[languages.en.menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[languages.en.menu.main]]
+name = 'Posts'
+pageRef = 'posts'
+weight = 20
+
+[[languages.fr.menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[languages.fr.menu.main]]
+name = 'Posts'
+pageRef = 'posts'
+weight = 20
+
+[taxonomies]
+tag = 'tags'

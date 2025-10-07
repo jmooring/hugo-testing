@@ -1,5 +1,5 @@
 ---
-title: Post 1 (en)
+title: Post 1 (fr)
 tags:
   - foo
   - bar
