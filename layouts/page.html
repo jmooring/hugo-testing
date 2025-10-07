@@ -1,11 +1,4 @@
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ with .GetTerms "tags" }}
-    <p>Tags:
-      {{ range . }}
-        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-      {{ end }}
-    </p>
-  {{ end }}
-  {{ .Content }}
-{{ end }}
+PAGE_TITLE: {{ .Title }}|
+{{- range .GetTerms "tags" -}}
+TERM_TITLE: {{ .Title }} TERM_RELPERMALINK: {{ .RelPermalink }}|
+{{- end -}}

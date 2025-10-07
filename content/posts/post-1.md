@@ -1,6 +1,0 @@
----
-title: Post 1 (en)
-tags:
-  - foo
-  - bar
----
