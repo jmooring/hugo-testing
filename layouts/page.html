@@ -1,4 +1,6 @@
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+{{ partial "defer-no-cache-no.html" . }}
+{{ partialCached "defer-no-cache-yes.html" . }}
+{{ with (templates.Defer (dict "key" "global")) }}
+  {{ partial "defer-yes-cache-no.html" . }}
+  {{ partialCached "defer-yes-cache-yes.html" . }}
 {{ end }}
