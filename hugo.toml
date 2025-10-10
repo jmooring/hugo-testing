@@ -1,3 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #56064'
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+[[module.imports]]
+path = "github.com/davidsneighbour/hugo-modules/modules/youtube"
