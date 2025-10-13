@@ -1,0 +1,9 @@
+  {{ $pages := append .CurrentSection.Pages.ByWeight.Reverse (slice .CurrentSection) }}
+
+  {{ with $pages.ByWeight.Reverse.Prev . }}
+    <a href="{{ .RelPermalink }}">{{ T "previous" }}</a>
+  {{ end }}
+
+  {{ with $pages.ByWeight.Reverse.Next . }}
+    <a href="{{ .RelPermalink }}">{{ T "next" }}</a>
+  {{ end }}

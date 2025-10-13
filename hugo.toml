@@ -5,6 +5,10 @@ title = 'Hugo Forum Topic #56086'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 
+# -----------------------------------------------------------------------------
+# Languages
+# -----------------------------------------------------------------------------
+
 [languages.en]
 languageCode = 'en-US'
 languageDirection = 'ltr'
@@ -17,6 +21,9 @@ languageDirection = 'ltr'
 languageName = 'Deutsch'
 weight = 2
 
+# -----------------------------------------------------------------------------
+# Menus (en)
+# -----------------------------------------------------------------------------
 
 [[languages.en.menus.main]]
 name = 'Home (en)'
@@ -28,6 +35,15 @@ name = 'Chapter 1 (en)'
 pageRef = '/chapter-1'
 weight = 20
 
+[[languages.en.menus.main]]
+name = 'Chapter 2 (en)'
+pageRef = '/chapter-2'
+weight = 30
+
+# -----------------------------------------------------------------------------
+# Menus (de)
+# -----------------------------------------------------------------------------
+
 [[languages.de.menus.main]]
 name = 'Home (de)'
 pageRef = '/'
@@ -37,3 +53,8 @@ weight = 10
 name = 'Chapter 1 (de)'
 pageRef = '/chapter-1'
 weight = 20
+
+[[languages.de.menus.main]]
+name = 'Chapter 2 (de)'
+pageRef = '/chapter-2'
+weight = 30
