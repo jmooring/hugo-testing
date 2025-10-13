@@ -1,4 +1,15 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  {{ $pages := .CurrentSection.Pages.ByWeight.Reverse }}
+
+  {{ with $pages.Prev . }}
+    <a href="{{ .RelPermalink }}">{{ T "previous" }}</a>
+  {{ end }}
+
+  {{ with $pages.Next . }}
+    <a href="{{ .RelPermalink }}">{{ T "next" }}</a>
+  {{ end }}
+
 {{ end }}
