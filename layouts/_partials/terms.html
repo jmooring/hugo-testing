@@ -1,0 +1,29 @@
+  {{ $allTaxonomyData := slice }}
+  {{ range $taxonomyName, $taxonomy := site.Taxonomies }}
+    {{ $visibleTerms := slice }}
+    {{ range $.GetTerms $taxonomyName }}
+      {{ $excludeList := $.Param (printf "taxonomies.%s.terms.exclude" $taxonomyName) }}
+      {{ if not (in $excludeList .Page.Data.Term) }}
+        {{ $visibleTerms = $visibleTerms | append . }}
+      {{ end }}
+    {{ end }}
+    {{ with $visibleTerms }}
+      {{ $allTaxonomyData = $allTaxonomyData | append (dict "taxonomyPage" $taxonomy.Page "termPages" $visibleTerms) }}
+    {{ end }}
+  {{ end }}
+
+  {{ with $allTaxonomyData }}
+    <ul>
+      {{ range . }}
+        <li><a href="{{ .taxonomyPage.RelPermalink }}">{{ .taxonomyPage.LinkTitle }}</a>
+          {{ with .termPages }}
+            <ul>
+              {{ range . }}
+                <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        </li>
+      {{ end }}
+    </ul>
+  {{ end }}

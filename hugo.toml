@@ -1,3 +1,23 @@
-baseURL = 'https://example.org/'
+baseURL      = 'https://example.org/'
 languageCode = 'en-US'
-title = 'Hugo Forum Topic #56095'
+title        = 'Hugo Forum Topic #56095'
+
+# -----------------------------------------------------------------------------
+# Taxonomies: define exclusion list
+# -----------------------------------------------------------------------------
+
+[params.taxonomies.tags.terms]
+  exclude = ['tag-b', 'tag-c']
+
+[params.taxonomies.categories.terms]
+  exclude = ['category-b', 'category-c']
+
+# -----------------------------------------------------------------------------
+# Taxonomies: assign default terms
+# -----------------------------------------------------------------------------
+
+[[cascade]]
+  categories = ['category-default']
+  tags = ['tag-default']
+  [cascade.target]
+    path = '/posts/**'
