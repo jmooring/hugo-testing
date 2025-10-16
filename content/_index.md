@@ -1,7 +1,7 @@
 +++
 title = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-10-16T11:01:17-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/56095'
+description = "Can .GetTerms support an array of taxonomies?"
 +++
