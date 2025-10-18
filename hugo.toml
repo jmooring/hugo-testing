@@ -1,3 +1,14 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #56104'
+
+[[module.imports]]
+path = 'my-theme'
+
+[[module.mounts]]
+source = 'content'
+target = 'content'
+
+[[module.mounts]]
+source = "content-a"
+target = "content"

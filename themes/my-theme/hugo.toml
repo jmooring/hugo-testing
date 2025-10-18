@@ -1,0 +1,7 @@
+[[module.mounts]]
+source = "content"
+target = "content"
+
+[[module.mounts]]
+source = 'content-b'
+target = 'content'
