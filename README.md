@@ -13,3 +13,22 @@ git clone --single-branch -b hugo-forum-topic-56104 https://github.com/jmooring/
 cd hugo-forum-topic-56104
 hugo config mounts
 ```
+
+Then build the site:
+
+```text
+hugo
+```
+
+Expected console warnings:
+
+```text
+WARN  /project-asset.txt
+WARN  /theme-asset.txt
+```
+
+Actual console warnings:
+
+```text
+WARN  /project-asset.txt
+```
