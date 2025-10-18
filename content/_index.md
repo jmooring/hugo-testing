@@ -5,3 +5,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/56108'
 description = "Disable / hide certain links in the ToC"
 +++
+
+This is the the home page.
