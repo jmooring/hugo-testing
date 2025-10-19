@@ -1,0 +1,7 @@
+[xfoo]
+  zero  = 'foo_zero_12345678'
+  one   = 'foo_one_12345678'
+  two   = 'foo_two_12345678'
+  few   = 'foo_few_12345678'
+  many  = 'foo_many_12345678'
+  other = 'foo_other_12345678'

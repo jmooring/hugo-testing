@@ -1,0 +1,7 @@
+[foo]
+  zero  = 'foo_zero_art-x-12345678'
+  one   = 'foo_one_art-x-12345678'
+  two   = 'foo_two_art-x-12345678'
+  few   = 'foo_few_art-x-12345678'
+  many  = 'foo_many_art-x-12345678'
+  # other = 'foo_other_art-x-12345678'

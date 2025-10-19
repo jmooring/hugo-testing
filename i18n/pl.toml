@@ -1,0 +1,7 @@
+[foo]
+  zero  = 'foo_zero_pl'
+  one   = 'foo_one_pl'
+  two   = 'foo_two_pl'
+  few   = 'foo_few_pl'
+  many  = 'foo_many_pl'
+  other = 'foo_other_pl'

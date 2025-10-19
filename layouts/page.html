@@ -1,4 +1,4 @@
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-{{ end }}
+LANGUAGE.LANG: {{ .Language.Lang }}
+FOO TRANSLATED: {{ T "foo" }}
+
+{{ T "foo" 2 }}
