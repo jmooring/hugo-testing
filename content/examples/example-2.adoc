@@ -1,0 +1,49 @@
+---
+title: AsciiDoc Example 2 - Not Page Bundle
+weight: 20
+---
+
+////
+Document attributes can be defined directly within the document (as shown below) or in your site configuration under the markup.asciidocExt.attributes key.
+
+The site configuration attributes override the document attributes. You can allow the document attributes to take precedence by using the "soft setting" syntax in your site configuration: append the @ symbol to the end of the attribute value in the site configuration (e.g., bibtex-file=my.bib@).
+////
+
+// The Bibtex database file.
+// Automatically locate the file if not defined.
+// :bibtex-file:
+
+// The reference formatting style.
+// Any style supported by csl-styles. Default is ieee.
+// See https://github.com/citation-style-language/styles.
+:bibtex-style: modern-language-association
+
+// The order of citations in the bibliography.
+// Either appearance or alphabetical. Default is appearance.
+:bibtex-order: appearance
+
+// The locale used to render the bibliography.
+// Any locale supported by CSL. Default is en-US.
+:bibtex-locale: {{% language-code %}}
+
+// Whether to throw an error on unknown references.
+// Either true or false. Default is false.
+:bibtex-throw: true
+
+```text
+The foo cite:[knuth1997] is bar cite:[einstein1935].
+```
+
+The foo cite:[knuth1997] is bar cite:[einstein1935].
+
+```text
+bibitem:[knuth1997]
+```
+
+bibitem:[knuth1997]
+
+```text
+bibliography::[]
+```
+
+bibliography::[]
