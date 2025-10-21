@@ -1,0 +1,9 @@
+[
+  {
+    "id": "foo",
+    "translation": {
+      "one": "foo_id_one",
+      "other": "foo_id_other"
+    }
+  }
+]
