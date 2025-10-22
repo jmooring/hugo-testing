@@ -1,0 +1,11 @@
+[[foo]]
+name = "foo"
+value = 6
+
+[[foo]]
+name = "bar"
+value = 6
+
+[[foo]]
+name = "baz"
+value = 7

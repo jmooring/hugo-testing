@@ -1,0 +1,7 @@
+foo:
+  - name: foo
+    value: 6
+  - name: bar
+    value: 6
+  - name: baz
+    value: 7

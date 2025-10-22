@@ -8,8 +8,26 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
-  {{ .Content }}
+
+{{/* Test where function with yaml map */}}
+{{ range slice site.Data.json site.Data.toml site.Data.yaml }}
+<pre>
+{{ jsonify (dict "indent" "  ") (where .foo "value" 6) }}
+</pre>
+{{ end }}
+
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+    <pre>
+      {{- range $k, $v := .Params }}
+        {{- if in $k "int" }}
+          {{ $k }} -->  {{ $v | printf "%[1]v (%[1]T)" }}
+        {{- end }}
+      {{- end }}
+
+          &lbrace;{ now.AddDate 0 0 .Params.int | time.Format ":date_short" }} --> {{ now.AddDate 0 0 .Params.int | time.Format ":date_short" }}
+    </pre>
+
   {{ end }}
 {{ end }}
