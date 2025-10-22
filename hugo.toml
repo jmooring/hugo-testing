@@ -1,3 +1,24 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #56129'
+disableKinds = ['page','rss','section','sitemap','taxonomy','term']
+
+defaultContentLanguageInSubdir = true
+
+[markup.tableOfContents]
+startLevel = 3
+endLevel = 6
+
+[languages.en]
+weight = 1
+
+[languages.de]
+weight = 2
+
+[languages.en.markup.tableOfContents]
+# _merge = 'deep'
+endLevel = 4
+
+[languages.de.markup.tableOfContents]
+# _merge = 'deep'
+endLevel = 5
