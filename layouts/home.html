@@ -9,7 +9,14 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
+  <button type="button"
+          class="btn btn-info"
+          data-bs-toggle="popover"
+          data-bs-title="Popover Title"
+          data-bs-content="This popover should be positioned to the right of the button, not at the top left corner of the window."
+          data-bs-placement="right">
+    Click to toggle popover
+  </button>
+
 {{ end }}

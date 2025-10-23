@@ -1,3 +1,15 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #14086'
+
+[[module.mounts]]
+source = 'assets'
+target = 'assets'
+
+[[module.mounts]]
+source = 'node_modules/bootstrap/scss'
+target = 'assets/sass/bootstrap'
+
+[[module.mounts]]
+source = 'node_modules/bootstrap/js'
+target = 'assets/js/bootstrap'

@@ -1,0 +1,16 @@
+{{ with resources.Get "js/main.js" }}
+  {{$opts := dict
+    "ignore_this_option___minify" (not hugo.IsDevelopment)
+    "sourceMap" (cond hugo.IsDevelopment "external" "")
+    "targetPath" "js/main.js"
+  }}
+  {{ with . | js.Build $opts | minify }}
+    {{ if hugo.IsDevelopment }}
+      <script type="module" src="{{ .RelPermalink }}"></script>
+    {{ else }}
+      {{ with . | fingerprint }}
+        <script type="module" src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
