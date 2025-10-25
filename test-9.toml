@@ -1,0 +1,28 @@
+baseURL = 'https://example.org/'
+disableKinds = ['rss', 'sitemap', 'taxonomy', 'term']
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+
+  disabled = false
+  weight = 1
+
+[languages.de]
+
+  disabled = false
+  weight = 2
+
+[uglyurls]
+  s1 = false
+
+[markup.asciidocext]
+  extensions           = ['asciidoctor-diagram']
+  workingFolderCurrent = true
+
+  [markup.asciidocext.attributes]
+    diagram-cachedir = 'resources/_gen/asciidoctor/diagrams'
+    diagram-cache-images-option = true
+
+[security.exec]
+  allow = ['^((dart-)?sass|git|go|npx|postcss|tailwindcss|asciidoctor)$']

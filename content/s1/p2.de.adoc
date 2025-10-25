@@ -1,0 +1,7 @@
+---
+title: s1_p2_de
+---
+[ditaa,s1_p2_de]
+....
+s1_p2_de
+....

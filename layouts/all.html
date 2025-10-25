@@ -1,0 +1,5 @@
+{{ .Content }}
+
+{{ range site.AllPages }}
+  <h4><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></h4>
+{{ end }}
