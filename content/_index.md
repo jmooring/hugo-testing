@@ -1,7 +1,7 @@
 +++
 title = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-10-26T05:05:34-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/14098'
+description = "Language resolution incorrect when calling shortcodes written as .md file"
 +++
