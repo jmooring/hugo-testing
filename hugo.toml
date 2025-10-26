@@ -1,19 +1,5 @@
-baseURL = 'https://example.org/'
-disableKinds = ['rss','sitemap','taxonomy','term']
-
-defaultContentLanguage         = 'zh'
+disableKinds = ['home','rss','section','sitemap','taxonomy','term']
+defaultContentLanguage = 'zh'
 defaultContentLanguageInSubdir = true
-
 [languages.zh]
-  languageCode      = 'zh-Hans'
-  languageDirection = 'ltr'
-  languageName      = 'Chinese'
-  title             = 'Hugo GitHub Issue #14098 (zh)'
-  weight =1
-
 [languages.en]
-  languageCode      = 'en-US'
-  languageDirection = 'ltr'
-  languageName      = 'English'
-  title             = 'Hugo GitHub Issue #14098 (en)'
-  weight=2
