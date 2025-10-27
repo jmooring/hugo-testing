@@ -8,6 +8,6 @@ mediaType = "application/json"
 baseName = "feed"
 isPlainText = true
 
-[mediaTypes]
-  [mediaTypes.'application/json']
-    suffixes = ['json','html']
+# [mediaTypes]
+#   [mediaTypes.'application/json']
+#     suffixes = ['json','html']
