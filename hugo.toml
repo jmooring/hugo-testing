@@ -1,5 +1,13 @@
 baseURL = 'https://example.org/'
-languageCode = 'de-DE'
+languageCode = 'en-EN'
 title = 'Hugo Forum Topic #56157'
 disableKinds = ['page','rss','section','sitemap','taxonomy','term']
-defaultContentLanguage = 'de'
+
+[outputFormats.jsonfeed]
+mediaType = "application/json"
+baseName = "feed"
+isPlainText = true
+
+[mediaTypes]
+  [mediaTypes.'application/json']
+    suffixes = ['json','html']

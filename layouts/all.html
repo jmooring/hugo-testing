@@ -1,1 +1,8 @@
-{{ partial "footer.section.de.html" }}
+{{ warnf `Example 1: {{ partial "header" . }}` }}
+{{ partial "header" . }}
+
+{{ warnf `Example 2: {{ partial "header.jsonfeed.html" . }}` }}
+{{ partial "header.jsonfeed.html" . }}
+
+{{ warnf `Example 3: {{ partial "header.blog.html" . }}` }}
+{{ partial "header.blog.html" . }}
