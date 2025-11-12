@@ -1,4 +1,11 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
-  {{ .Content }}
+
+<pre>
+{{ jsonify (dict "indent" "  ") .Params }}
+</pre>
+
+
+{{ transform.Highlight (partial "meta-robots.html" . | strings.TrimSpace) "html" "style=rrt"  }}
+
 {{ end }}

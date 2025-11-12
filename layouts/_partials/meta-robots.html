@@ -1,0 +1,3 @@
+{{ $index := cond (.Param "robots.index") "index" "noindex" }}
+{{ $follow := cond (.Param "robots.follow") "follow" "nofollow" }}
+{{ printf `<meta name="robots" content="%s, %s">` $index $follow | safeHTML }}
