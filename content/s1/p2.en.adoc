@@ -1,7 +1,7 @@
 ---
 title: s1_p2_en
 ---
-[ditaa,s1_p2_en]
+[goat,s1_p2_en]
 ....
 s1_p2_en
 ....

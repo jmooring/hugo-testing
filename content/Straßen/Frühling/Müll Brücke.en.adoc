@@ -1,7 +1,7 @@
 ---
 title: Straßen_Frühling_Müll_Brücke_en
 ---
-[ditaa,Straßen_Frühling_Müll_Brücke_en]
+[goat,Straßen_Frühling_Müll_Brücke_en]
 ....
 Straßen_Frühling_Müll_Brücke_en
 ....

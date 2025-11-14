@@ -2,6 +2,8 @@ disableKinds = ['rss', 'sitemap', 'taxonomy', 'term']
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 
+# resourcedir = "xxx"
+
 [languages.en]
   baseURL = 'https://en.example.org/subdir/'
   disabled = false
@@ -19,9 +21,8 @@ defaultContentLanguageInSubdir = true
   extensions           = ['asciidoctor-diagram']
   workingFolderCurrent = true
 
-  [markup.asciidocext.attributes]
-    diagram-cachedir = 'resources/_gen/asciidoctor/diagrams'
-    diagram-cache-images-option = true
-
 [security.exec]
   allow = ['^((dart-)?sass|git|go|npx|postcss|tailwindcss|asciidoctor)$']
+
+[caches.misc]
+  dir = ':cacheDir/:project'

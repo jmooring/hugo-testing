@@ -1,7 +1,7 @@
 ---
 title: Straßen_Frühling_de
 ---
-[ditaa,Straßen_Frühling_de]
+[goat,Straßen_Frühling_de]
 ....
 Straßen_Frühling_de
 ....

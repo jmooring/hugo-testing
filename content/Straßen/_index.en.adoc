@@ -1,7 +1,7 @@
 ---
 title: Straßen_en
 ---
-[ditaa,Straßen_en]
+[goat,Straßen_en]
 ....
 Straßen_en
 ....

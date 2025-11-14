@@ -6,13 +6,11 @@ Description: markup/asciidocext: Fix the outdir document attribute
 
 ## Setup
 
-Note that the Java Runtime Environment (JRE) is required by the `asciidoctor-diagram-ditaamini` extension.
-
 ```text
-sudo apt install ruby ruby-dev default-jre
+sudo apt install ruby ruby-dev
 gem install --user-install asciidoctor -v "2.0.26"
-gem install --user-install asciidoctor-diagram -v "3.0.1"
-gem install --user-install asciidoctor-diagram-ditaamini -v "1.0.3"
+gem install --user-install asciidoctor-diagram -v "3.1.0"
+go install github.com/blampe/goat/cmd/goat@177de93b192b8ffae608e5d9ec421cc99bf68402
 ```
 
 ## Test
