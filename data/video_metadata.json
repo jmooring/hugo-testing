@@ -1,0 +1,12 @@
+{
+  "posts/post-1/video-a.mp4": {
+    "width": 1920,
+    "height": 1080,
+    "duration": 10.000000
+  },
+  "posts/post-2/video-b.webm": {
+    "width": 1920,
+    "height": 1080,
+    "duration": 10.000000
+  }
+}

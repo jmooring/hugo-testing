@@ -1,0 +1,31 @@
+{{ with $src := .Get "src" }}
+  {{ with $r := $.Page.Resources.Get $src }}
+    {{ $width := or ($.Get "width") 0 }}
+    {{ $height := or ($.Get "height") 0 }}
+    {{ $duration := 0 }}
+    {{ with $.Page.File }}
+      {{ $key := path.Join .Dir $src }}
+      {{ with index site.Data.video_metadata $key }}
+        {{ $width = or $width .width }}
+        {{ $height = or $height .height }}
+        {{ $duration = .duration }}
+        <p>Video Duration: {{ printf "%v seconds" .duration }}</p>
+        <video controls
+          preload="metadata"
+          width="{{ $width }}"
+          height="{{ $height }}"
+        >
+          <source src="{{ $r.RelPermalink }}" type="{{ $r.MediaType.Type }}">
+        </video>
+      {{ else }}
+        {{ errorf "The %q shortcode was unable to find metadata for %s: see %s" $.Name $key $.Position }}
+      {{ end }}
+    {{ else }}
+      {{ errorf "The %q shortcode cannot retrieve meta data for video resources where the page is not backed by a file: see %s" $.Name $.Position  }}
+    {{ end }}
+  {{ else }}
+    {{ errorf "The %q shortcode was unable to find %s: see %s" $.Name $src $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires a %q parameter: see %s" .Name "src" .Position }}
+{{ end }}
