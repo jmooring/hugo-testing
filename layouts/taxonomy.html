@@ -1,7 +1,12 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ range $term, $weightedPages := .Data.Terms }}
+    <h2><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></h2>\
+    {{ range $weightedPages }}
+      <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+    {{ end }}
   {{ end }}
+
 {{ end }}
