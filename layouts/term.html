@@ -1,4 +1,5 @@
 {{ define "main" }}
+  <div style="color: red;">[{{ templates.Current.Filename }}]</div>
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   {{ range .Pages }}
