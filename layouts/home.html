@@ -9,7 +9,32 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
+  <h2>WebP decode contrast issue</h2>
+
+  <p>Original on left (WebP), converted on right (JPEG)</p>
+
+  <div class="image-container">
+    {{- with resources.Get "images/test.webp" -}}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{- end -}}
+    {{- with resources.Get "images/test.webp" -}}
+      {{- with .Process "jpeg" -}}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{- end -}}
+    {{- end -}}
+  </div>
+
+  <h2>Performance testing</h2>
+
+  <p>20 WebP images, each 1920x1080, converted to JPEG 300 px wide.</p>
+
+  <div class="image-container">
+    {{- range resources.Match "images/petrified-forest-national-park/*" -}}
+      {{- with .Process "resize 300x jpeg" -}}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{- end -}}
+    {{- end -}}
+  </div>
+
 {{ end }}

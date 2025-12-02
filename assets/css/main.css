@@ -1,0 +1,27 @@
+/* Base */
+/* ------------------------------------------------------------------------- */
+
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0 1rem;
+  max-width: 1200px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+/* Other */
+/* ------------------------------------------------------------------------- */
+
+.image-container {
+  font-size: 0;
+}
