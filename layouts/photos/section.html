@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <h1><a href="{{ .RelPermalink }}">{{ .Date | time.Format site.Params.dateFormats.monthYear }}</a></h1>
+  {{ .Content }}
+  {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Date | time.Format site.Params.dateFormats.day }}</a></h2>
+  {{ end }}
+{{ end }}

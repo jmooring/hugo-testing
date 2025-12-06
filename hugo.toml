@@ -1,3 +1,16 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #47870'
+
+[pagination]
+pagerSize = 2
+
+[params.dateFormats]
+monthYear = 'January 2006'
+day = ':date_long'
+
+[[cascade]]
+layout = 'calendar'
+[cascade.target]
+path = '/photos'
+kind = 'section'

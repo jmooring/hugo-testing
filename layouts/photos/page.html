@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <h1><a href="{{ .RelPermalink }}">{{ .Date | time.Format site.Params.dateFormats.day }}</a></h1>
+  {{ .Content }}
+
+  {{ range .Resources.ByType "image" }}
+    {{ with .Process "resize 600x" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
+{{ end }}

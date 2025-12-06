@@ -1,0 +1,63 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ range (.Paginate (.Sections.GroupByDate "2006-01")).PageGroups }}
+    {{ range $currentSection := .Pages }} {{/* this collection only contains the section page for the current section */}}
+      <h2><a href="{{ .RelPermalink }}">{{ .Date | time.Format site.Params.dateFormats.monthYear }}</a></h2>
+
+      {{ $fdom := .Date.AddDate 0 0 (sub 1 .Date.Day | int) }} {{/* first day of month */}}
+      {{ $ldom := .Date.AddDate 0 1 (sub 0 .Date.Day | int) }} {{/* last day of month */}}
+      {{ $dim := $ldom.Day }} {{/* days in month */}}
+      {{ $fdomdow := $fdom.Weekday | int }} {{/* first day of month day of week (0-6 where Sunday == 0) */}}
+
+      <table class="calendar">
+        <thead>
+          <tr>
+            <th>Sun</th>
+            <th>Mon</th>
+            <th>Tue</th>
+            <th>Wed</th>
+            <th>Thu</th>
+            <th>Fri</th>
+            <th>Sat</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{ $currentDay := 1 }}
+          {{ range $row := seq 6 }}
+            {{ if le $currentDay $dim }}
+              <tr>
+                {{ range $cellIndex := seq 7 }}
+                  {{ $cellCount := add (mul (sub $row 1) 7) $cellIndex }}
+                  <td>
+                    {{ $dayNumber := sub $cellCount $fdomdow }}
+                    {{ if and (ge $cellCount (add $fdomdow 1)) (le $dayNumber $dim) }}
+                      {{ $date := $fdom.AddDate 0 0 (sub $dayNumber 1) }}
+                      {{ range $p := where $currentSection.Pages "Date" $date }} {{/* this collection only contains one page */}}
+                        {{ range .Resources.ByType "image" | first 1 }}
+                          {{ with .Process "fill 72x72" }}
+                            <a href="{{ $p.RelPermalink }}">
+                              <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" title="{{ $date | time.Format site.Params.dateFormats.day }}">
+                            </a>
+                          {{ end }}
+                        {{ end }}
+                      {{ end }}
+                      {{ $currentDay = add $currentDay 1 }}
+                    {{ end }}
+                  </td>
+                {{ end }}
+              </tr>
+            {{ end }}
+          {{ end }}
+        </tbody>
+      </table>
+
+    {{ end }}
+  {{ end }}
+
+  <nav class="nav-inline">
+    {{ partial "pagination.html" . }}
+  </nav>
+
+{{ end }}
