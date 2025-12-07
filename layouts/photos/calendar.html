@@ -3,12 +3,16 @@
   {{ .Content }}
 
   {{ range $section := (.Paginate .Sections).Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Date | time.Format site.Params.dateFormats.monthYear }}</a></h2>
+    <h2><a href="{{ $section.RelPermalink }}">{{ $section.Date | time.Format site.Params.dateFormats.monthYear }}</a></h2>
 
-    {{ $fdom := .Date.AddDate 0 0 (sub 1 .Date.Day | int) }} {{/* first day of month */}}
-    {{ $ldom := .Date.AddDate 0 1 (sub 0 .Date.Day | int) }} {{/* last day of month */}}
-    {{ $dim := $ldom.Day }} {{/* days in month */}}
-    {{ $fdomdow := $fdom.Weekday | int }} {{/* first day of month day of week (0-6 where Sunday == 0) */}}
+    {{ $firstDayOfMonth := $section.Date.AddDate 0 0 (sub 1 $section.Date.Day) }}
+    {{ $firstDayOfMonthWeekday := $firstDayOfMonth.Weekday }} {{/* 0=Sun, 6=Sat */}}
+    {{ $daysInMonth := ($firstDayOfMonth.AddDate 0 1 -1).Day }}
+
+    {{ $pagesByDate := dict }}
+    {{ range $page := $section.Pages }}
+      {{ $pagesByDate = merge $pagesByDate (dict ($page.Date | time.Format "2006-01-02") $page) }}
+    {{ end }}
 
     <table class="calendar">
       <thead>
@@ -23,31 +27,35 @@
         </tr>
       </thead>
       <tbody>
-        {{ $currentDay := 1 }}
-        {{ range $row := seq 6 }}
-          {{ if le $currentDay $dim }}
-            <tr>
-              {{ range $cellIndex := seq 7 }}
-                {{ $cellCount := add (mul (sub $row 1) 7) $cellIndex }}
-                <td>
-                  {{ $dayNumber := sub $cellCount $fdomdow }}
-                  {{ if and (ge $cellCount (add $fdomdow 1)) (le $dayNumber $dim) }}
-                    {{ $date := $fdom.AddDate 0 0 (sub $dayNumber 1) }}
-                    {{ range $p := where $section.Pages "Date" $date }} {{/* this collection only contains one page */}}
-                      {{ range .Resources.ByType "image" | first 1 }}
-                        {{ with .Process "fill 72x72" }}
-                          <a href="{{ $p.RelPermalink }}">
-                            <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" title="{{ $date | time.Format site.Params.dateFormats.day }}">
-                          </a>
-                        {{ end }}
+        {{ $totalCells := add $firstDayOfMonthWeekday $daysInMonth }}
+        {{ $numRows := div (add $totalCells 6) 7 }}
+        {{ range $row := seq $numRows }}
+          <tr>
+            {{ range $column := seq 7 }}
+              {{ $cellIndex := add (mul (sub $row 1) 7) $column }}
+              {{ $dayNumber := sub $cellIndex $firstDayOfMonthWeekday }}
+              <td>
+                {{ if and (ge $dayNumber 1) (le $dayNumber $daysInMonth) }}
+                  {{ $date := $firstDayOfMonth.AddDate 0 0 (sub $dayNumber 1) }}
+                  {{ $dateKey := $date | time.Format "2006-01-02" }}
+                  {{ with $p := index $pagesByDate $dateKey }}
+                    {{ range $p.Resources.ByType "image" | first 1 }}
+                      {{ with .Process "fill 72x72" }}
+                        <a href="{{ $p.RelPermalink }}">
+                          <img
+                            src="{{ .RelPermalink }}"
+                            width="{{ .Width }}"
+                            height="{{ .Height }}"
+                            alt="{{ printf `A thumbnail of an image from %s.` ($date | time.Format site.Params.dateFormats.day) }}"
+                            title="{{ $date | time.Format site.Params.dateFormats.day }}">
+                        </a>
                       {{ end }}
                     {{ end }}
-                    {{ $currentDay = add $currentDay 1 }}
                   {{ end }}
-                </td>
-              {{ end }}
-            </tr>
-          {{ end }}
+                {{ end }}
+              </td>
+            {{ end }}
+          </tr>
         {{ end }}
       </tbody>
     </table>
