@@ -1,3 +1,7 @@
+{{ define "title" }}
+  <title>{{ printf "%s | %s | %s" .FirstSection.LinkTitle (.Date | time.Format site.Params.dateFormats.monthYear) site.Title }}</title>
+{{ end }}
+
 {{ define "main" }}
   <h1><a href="{{ .RelPermalink }}">{{ .Date | time.Format site.Params.dateFormats.monthYear }}</a></h1>
   {{ .Content }}

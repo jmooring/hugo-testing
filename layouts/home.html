@@ -1,3 +1,7 @@
+{{ define "title" }}
+  <title>{{ site.Title }}</title>
+{{ end }}
+
 {{ define "main" }}
   {{ with .Params.details }}
     <p>Details: <a href="{{ . }}">{{ . }}</a></p>
