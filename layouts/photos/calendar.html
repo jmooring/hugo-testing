@@ -34,9 +34,16 @@
             {{ range $column := seq 7 }}
               {{ $cellIndex := add (mul (sub $row 1) 7) $column }}
               {{ $dayNumber := sub $cellIndex $firstDayOfMonthWeekday }}
-              <td>
-                {{ if and (ge $dayNumber 1) (le $dayNumber $daysInMonth) }}
-                  {{ $date := $firstDayOfMonth.AddDate 0 0 (sub $dayNumber 1) }}
+              {{ $date := "" }}
+              {{ $isValidDay := false}}
+
+              {{ if and (ge $dayNumber 1) (le $dayNumber $daysInMonth) }}
+                {{ $date = $firstDayOfMonth.AddDate 0 0 (sub $dayNumber 1) }} {{/* Calculate date here */}}
+                {{ $isValidDay = true }}
+              {{ end }}
+
+              <td {{ if $isValidDay }}title="{{ $date | time.Format site.Params.dateFormats.day }}"{{ end }}>
+                {{ if $isValidDay }}
                   {{ $dateKey := $date | time.Format "2006-01-02" }}
                   {{ with $p := index $pagesByDate $dateKey }}
                     {{ range $p.Resources.ByType "image" | first 1 }}
@@ -47,7 +54,7 @@
                             width="{{ .Width }}"
                             height="{{ .Height }}"
                             alt="{{ printf `A thumbnail of an image from %s.` ($date | time.Format site.Params.dateFormats.day) }}"
-                            title="{{ $date | time.Format site.Params.dateFormats.day }}">
+                          >
                         </a>
                       {{ end }}
                     {{ end }}
