@@ -2,8 +2,10 @@ baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #12321'
 
-[security.http]
-mediaTypes = ['^audio/mpeg$']
+disableKinds = ['rss','sitemap','taxonomy','term']
 
 [mediaTypes.'audio/mpeg']
 suffixes = ['mp3']
+
+[module.hugoVersion]
+min = '0.152.2'
