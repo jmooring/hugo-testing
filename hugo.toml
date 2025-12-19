@@ -1,1 +1,1 @@
-disableKinds = ['home','rss','section','sitemap','taxonomy','term']
+disableKinds = ['page','rss','section','sitemap','taxonomy','term']

@@ -1,6 +1,0 @@
-{{ $img := .Page.Resources.GetMatch (.Get "src") }}
-{{ if not (strings.HasSuffix $img.Name "gif") }}
-{{ $img := $img.Process "webp picture q90" }}
-{{ end }}
-
-{{ $img.RelPermalink }}

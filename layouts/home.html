@@ -1,0 +1,5 @@
+{{ with resources.Get "image.webp" }}
+  {{ with .Process "webp" }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+  {{ end }}
+{{ end }}
