@@ -1,0 +1,12 @@
+{{ define "main" }}[{{ templates.Current.Filename }}]
+  <h1>{{ .Title}}</h1>
+
+{{ with .Site  }}
+  {{ reflect.IsSite . }} → true
+{{ end }}
+
+{{ with site.GetPage "/examples" }}
+  {{ reflect.IsSite . }} → false
+{{ end }}
+
+{{ end }}

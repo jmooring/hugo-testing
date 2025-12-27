@@ -1,4 +1,4 @@
-{{ define "main" }}
+{{ define "main" }}[{{ templates.Current.Filename }}]
   <h1>{{ .Title}}</h1>
 
 {{ with resources.Get "a.json" }}
@@ -29,9 +29,8 @@
 
 <hr>
 
-{{ with site.GetPage "/example" }}
+{{ with site.GetPage "/examples" }}
   {{ reflect.IsImageResource . }} → false
 {{ end }}
-
 
 {{ end }}

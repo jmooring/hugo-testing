@@ -1,0 +1,36 @@
+{{ define "main" }}[{{ templates.Current.Filename }}]
+  <h1>{{ .Title}}</h1>
+
+{{ with resources.Get "a.json" }}
+  {{ reflect.IsResource . }} → true
+{{ end }}
+
+{{ with resources.Get "b.avif" }}
+  {{ reflect.IsResource . }} → true
+{{ end }}
+
+{{ with resources.Get "c.jpg" }}
+  {{ reflect.IsResource . }} → true
+{{ end }}
+
+<hr>
+
+{{ with .Resources.Get "d.json" }}
+  {{ reflect.IsResource . }} → true
+{{ end }}
+
+{{ with .Resources.Get "e.avif" }}
+  {{ reflect.IsResource . }} → true
+{{ end }}
+
+{{ with .Resources.Get "f.jpg" }}
+  {{ reflect.IsResource . }} → true
+{{ end }}
+
+<hr>
+
+{{ with site.GetPage "/examples" }}
+  {{ reflect.IsResource . }} → false
+{{ end }}
+
+{{ end }}
