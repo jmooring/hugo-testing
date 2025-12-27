@@ -8,8 +8,19 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
-  {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+
+  {{ with resources.Get "300x200.jpg" }}
+
+    <h2>Original (300x200)</h2>
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+
+    <h2>.Fill (150x100)</h2>
+    <p>Notice that wing tip is not visible.</p>
+    {{ with .Fill "150x100" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+
   {{ end }}
+
 {{ end }}
