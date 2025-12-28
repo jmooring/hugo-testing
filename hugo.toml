@@ -9,7 +9,7 @@ min = '0.147.9'
 path = 'github.com/jmooring/hugo-module-backlinks'
 
 [markup.goldmark.renderHooks.link]
-enableDefault = true
+useEmbedded = 'always'
 
 [outputs]
 home = ['html','rss','backlinks']
