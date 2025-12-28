@@ -76,7 +76,7 @@ posts = "/:year/:month/:day/:slug"
 # -----------------------------------------------------------------------------
 
 [markup.goldmark.renderHooks.image]
-enableDefault = true
+useEmbedded = 'always'
 
 [markup.goldmark.renderHooks.link]
-enableDefault = true
+useEmbedded = 'always'
