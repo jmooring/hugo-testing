@@ -1,7 +1,12 @@
-disableKinds = ['home','rss','sitemap','taxonomy','term']
+disableKinds = ['home', 'rss', 'sitemap', 'taxonomy', 'term']
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 [languages.en]
-weight = 1
+  weight = 1
 [languages.de]
-weight = 2
+  weight = 2
+[[cascade]]
+  [cascade.params]
+    size = 'medium'
+  [cascade.target]
+    kind = 'page'
