@@ -1,2 +1,8 @@
 github.com/jmooring/hugo-module-debug v0.1.2 h1:qfUOrU+L5+F7puNVDerNCDYlKWHZ4u99245k7401YFk=
 github.com/jmooring/hugo-module-debug v0.1.2/go.mod h1:EBOCx91sBRBFnw1tHnjMXdt0uvh6Rcb8rxbG+DrJHT8=
+github.com/jmooring/hugo-module-debug v0.2.0 h1:LlXObFEarHd2wZ+L/vAeA482x+9vcjv5JR4/wCQ7U0E=
+github.com/jmooring/hugo-module-debug v0.2.0/go.mod h1:EBOCx91sBRBFnw1tHnjMXdt0uvh6Rcb8rxbG+DrJHT8=
+github.com/jmooring/hugo-module-debug v0.2.1 h1:TuKxsRxZfXK2PRcWnKXCj3Sbck1M1LhAJmDni66fuJ4=
+github.com/jmooring/hugo-module-debug v0.2.1/go.mod h1:EBOCx91sBRBFnw1tHnjMXdt0uvh6Rcb8rxbG+DrJHT8=
+github.com/jmooring/hugo-module-debug v0.3.0 h1:x6p1TyR+/mYVa0nt9Wxde7B+nkAt75ZyEw85CrE5qGE=
+github.com/jmooring/hugo-module-debug v0.3.0/go.mod h1:EBOCx91sBRBFnw1tHnjMXdt0uvh6Rcb8rxbG+DrJHT8=
