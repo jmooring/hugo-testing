@@ -24,7 +24,7 @@ v0.3.0
 - Modified /docs/functions/variance
 - Removed /docs/functions/average
 
-v0.4.0
+v0.4.0 (`defaultContentVersion`)
 
 - Added /docs/functions/median
 
