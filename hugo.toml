@@ -4,7 +4,7 @@ title        = 'Hugo Forum Topic #56516'
 
 disableKinds = ['rss', 'sitemap', 'taxonomy', 'term']
 
-defaultContentVersion         = 'v0.3.0' # Set to the latest version
+defaultContentVersion         = 'v0.4.0' # Set to the latest version
 defaultContentVersionInSubdir = true
 
 # -----------------------------------------------------------------------------
@@ -34,6 +34,7 @@ defaultContentVersionInSubdir = true
   [versions.'v0.1.0']
   [versions.'v0.2.0']
   [versions.'v0.3.0']
+  [versions.'v0.4.0']
 
 # -----------------------------------------------------------------------------
 # Mounts
@@ -59,6 +60,13 @@ defaultContentVersionInSubdir = true
   [module.mounts.sites]
     [module.mounts.sites.matrix]
       versions = 'v0.3.0'
+
+[[module.mounts]]
+  source = 'content/v0.4.0'
+  target = 'content'
+  [module.mounts.sites]
+    [module.mounts.sites.matrix]
+      versions = 'v0.4.0'
 
 # -----------------------------------------------------------------------------
 # Render hooks

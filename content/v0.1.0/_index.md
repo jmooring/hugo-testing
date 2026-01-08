@@ -24,4 +24,8 @@ v0.3.0
 - Modified /docs/functions/variance
 - Removed /docs/functions/average
 
+v0.4.0
+
+- Added /docs/functions/median
+
 [v0.153.0]: https://github.com/gohugoio/hugo/releases/tag/v0.153.0
