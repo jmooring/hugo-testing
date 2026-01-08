@@ -1,0 +1,13 @@
+{{ with .Rotate "version" }}
+  <nav class="nav-inline version-switcher">
+    <ul>
+      {{ range . }}
+        {{ if eq .Site.Version $.Site.Version }}
+          <li class="active"><a aria-current="page" href="{{ .Permalink }}">{{ .Site.Version.Name }}</a></li>
+        {{ else }}
+          <li><a href="{{ .Permalink }}">{{ .Site.Version.Name }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </nav>
+{{ end }}

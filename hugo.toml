@@ -1,3 +1,71 @@
-baseURL = 'https://example.org/'
+baseURL      = 'https://example.org/'
 languageCode = 'en-US'
-title = 'Hugo Forum Topic #56516'
+title        = 'Hugo Forum Topic #56516'
+
+disableKinds = ['rss', 'sitemap', 'taxonomy', 'term']
+
+defaultContentVersion         = 'v0.3.0' # Set to the latest version
+defaultContentVersionInSubdir = true
+
+# -----------------------------------------------------------------------------
+# Menus
+# -----------------------------------------------------------------------------
+
+[[menus.main]]
+  name    = 'Home'
+  pageRef = '/'
+  weight  = 10
+
+[[menus.main]]
+  name    = 'Documentation'
+  pageRef = '/docs'
+  weight  = 20
+
+[[menus.main]]
+  name    = 'Functions'
+  pageRef = '/docs/functions'
+  weight  = 30
+
+# -----------------------------------------------------------------------------
+# Content dimensions
+# -----------------------------------------------------------------------------
+
+[versions]
+  [versions.'v0.1.0']
+  [versions.'v0.2.0']
+  [versions.'v0.3.0']
+
+# -----------------------------------------------------------------------------
+# Mounts
+# -----------------------------------------------------------------------------
+
+[[module.mounts]]
+  source = 'content/v0.1.0'
+  target = 'content'
+  [module.mounts.sites]
+    [module.mounts.sites.matrix]
+      versions = '**'
+
+[[module.mounts]]
+  source = 'content/v0.2.0'
+  target = 'content'
+  [module.mounts.sites]
+    [module.mounts.sites.matrix]
+      versions = 'v0.2.0'
+
+[[module.mounts]]
+  source = 'content/v0.3.0'
+  target = 'content'
+  [module.mounts.sites]
+    [module.mounts.sites.matrix]
+      versions = 'v0.3.0'
+
+# -----------------------------------------------------------------------------
+# Render hooks
+# -----------------------------------------------------------------------------
+
+[markup.goldmark.renderHooks.image]
+useEmbedded = 'always'
+
+[markup.goldmark.renderHooks.link]
+useEmbedded = 'always'
