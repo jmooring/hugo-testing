@@ -52,21 +52,21 @@ defaultContentVersionInSubdir = true
   target = 'content'
   [module.mounts.sites]
     [module.mounts.sites.matrix]
-      versions = 'v0.2.0'
+      versions = 'v0.[2-9].0'
 
 [[module.mounts]]
   source = 'content/v0.3.0'
   target = 'content'
   [module.mounts.sites]
     [module.mounts.sites.matrix]
-      versions = 'v0.3.0'
+      versions = 'v0.[3-9].0'
 
 [[module.mounts]]
   source = 'content/v0.4.0'
   target = 'content'
   [module.mounts.sites]
     [module.mounts.sites.matrix]
-      versions = 'v0.4.0'
+      versions = 'v0.[4-9].0'
 
 # -----------------------------------------------------------------------------
 # Render hooks
