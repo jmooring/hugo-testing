@@ -1,8 +1,8 @@
-disableKinds = ['page','rss','section','sitemap','taxonomy','term']
+disableKinds = ['rss','sitemap','taxonomy','term']
 
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true # default is false
-disableDefaultLanguageRedirect = true # default is false
+disableDefaultLanguageRedirect = false # default is false
 
 [languages.en]
 weight = 1
