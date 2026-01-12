@@ -1,7 +1,7 @@
 +++
 title = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2026-01-12T10:35:54-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/14365'
+description = "Canonical link of page alias refers to page in wrong language in the presence of fallbacks"
 +++

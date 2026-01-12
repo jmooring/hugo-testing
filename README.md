@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo GitHub Issue #14365
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/14365>
 
-Description: @@DESCRIPTION@@
+Description: Canonical link of page alias refers to page in wrong language in the presence of fallbacks
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-github-issue-14365 https://github.com/jmooring/hugo-testing hugo-github-issue-14365
+cd hugo-github-issue-14365
 hugo server
 ```
