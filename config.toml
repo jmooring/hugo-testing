@@ -1,0 +1,12 @@
+baseURL      = 'https://example.org'
+disableKinds = ['home', 'rss', 'sitemap', 'taxonomy', 'term']
+
+[outputFormats.print]
+  isHTML        = true
+  mediaType     = 'text/html'
+  path          = 'print'
+  permalinkable = true
+
+[outputs]
+  page    = ['html', 'print']
+  section = ['html', 'print']
