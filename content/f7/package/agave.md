@@ -18,7 +18,7 @@ The package agave (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca](/f7/xlanguage/ca) | 108 | 108 | 100.0 | /mnt/stockage/packages/f7/agave/po/ca.po | 
+ | [ca](/f7/xxx-language/ca) | 108 | 108 | 100.0 | /mnt/stockage/packages/f7/agave/po/ca.po | 
  | [de](/f7/language/de) | 115 | 115 | 100.0 | /mnt/stockage/packages/f7/agave/po/de.po | 
  | [es](/f7/language/es) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/agave/po/es_ES.po | 
  | [it](/f7/language/it) | 115 | 115 | 100.0 | /mnt/stockage/packages/f7/agave/po/it.po | 
