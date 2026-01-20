@@ -17,7 +17,7 @@
       {{- $href = printf "%s#%s" $href . -}}
     {{- end -}}
   {{- else -}}
-    {{- warnf "The link render hook was unable to resolve link target: %s" $path -}}
+    {{- warnf "The link render hook was unable to resolve the destination %q in %q" $u.String .Page.String -}}
   {{- end -}}
 {{- end -}}
 <a href="{{ $href }}" {{- with .Title }} title="{{ . }}" {{- end }}>{{ .Text }}</a>
